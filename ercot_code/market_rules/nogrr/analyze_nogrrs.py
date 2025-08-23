@@ -20,9 +20,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class NOGRRAnalyzer:
-    def __init__(self, data_dir: str = "nogrr_data", output_dir: str = "nogrr_analysis"):
-        self.data_dir = Path(data_dir)
-        self.output_dir = Path(output_dir)
+    def __init__(self, data_dir: str = None, output_dir: str = None):
+        base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/"
+        self.data_dir = Path(data_dir) if data_dir else Path(base_dir) / "nogrr_data"
+        self.output_dir = Path(output_dir) if output_dir else Path(base_dir) / "nogrr_analysis"
         self.output_dir.mkdir(exist_ok=True)
         
         # Technology categories for impact scoring
@@ -487,8 +488,9 @@ def main():
     
     parser = argparse.ArgumentParser(description='Analyze ERCOT NOGRRs')
     parser.add_argument('--nogrr-id', help='Analyze specific NOGRR ID')
-    parser.add_argument('--data-dir', default='nogrr_data', help='Directory with NOGRR data')
-    parser.add_argument('--output-dir', default='nogrr_analysis', help='Output directory')
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/"
+    parser.add_argument('--data-dir', default=None, help='Directory with NOGRR data (default: base_dir/nogrr_data)')
+    parser.add_argument('--output-dir', default=None, help='Output directory (default: base_dir/nogrr_analysis)')
     parser.add_argument('--all', action='store_true', help='Analyze all NOGRRs')
     
     args = parser.parse_args()

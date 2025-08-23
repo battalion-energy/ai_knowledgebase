@@ -61,7 +61,8 @@ def download_file(url, output_path, retry=3):
 
 def main():
     # Read the markdown file
-    md_file = 'ERCOT_BES_KTC_Downloadable_Resources.md'
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_info/energy_storage_resources/"
+    md_file = f'{base_dir}ERCOT_BES_KTC_Downloadable_Resources.md'
     urls_by_ktc = extract_urls_from_markdown(md_file)
     
     # Statistics
@@ -80,7 +81,7 @@ def main():
         print(f"\nProcessing {ktc.upper()} ({len(urls)} files)")
         print("-"*40)
         
-        download_dir = Path(f"downloads/{ktc}")
+        download_dir = Path(f"{base_dir}downloads/{ktc}")
         download_dir.mkdir(parents=True, exist_ok=True)
         
         for url in urls:
@@ -123,7 +124,7 @@ def main():
             print(f"  - {ktc}: {url}")
     
     # Create a summary file
-    with open('download_summary.txt', 'w') as f:
+    with open(f'{base_dir}download_summary.txt', 'w') as f:
         f.write(f"ERCOT ESR Files Download Summary\n")
         f.write(f"{'='*40}\n")
         f.write(f"Total files: {total_files}\n")
@@ -131,7 +132,7 @@ def main():
         f.write(f"Failed: {len(failed)}\n\n")
         
         for ktc in sorted(urls_by_ktc.keys()):
-            download_dir = Path(f"downloads/{ktc}")
+            download_dir = Path(f"{base_dir}downloads/{ktc}")
             if download_dir.exists():
                 files = list(download_dir.glob('*'))
                 f.write(f"\n{ktc.upper()}: {len(files)} files\n")

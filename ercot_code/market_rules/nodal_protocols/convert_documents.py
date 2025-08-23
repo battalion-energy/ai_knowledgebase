@@ -13,7 +13,7 @@ from datetime import datetime
 
 # Track progress
 class DocumentConverter:
-    def __init__(self, base_dir="."):
+    def __init__(self, base_dir="/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"):
         self.base_dir = Path(base_dir)
         self.text_dir = self.base_dir / "text_versions"
         self.text_dir.mkdir(exist_ok=True)
@@ -223,8 +223,9 @@ class DocumentConverter:
 
 
 def main():
-    # Check if we're in the right directory
-    current_dir = Path.cwd()
+    # Use the base directory for ERCOT nodal protocols
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"
+    current_dir = Path(base_dir)
     
     # Look for marker files to confirm we're in the right place
     if not any(current_dir.glob("*Nodal.docx")) and not any(current_dir.glob("*Nodal.doc")):
@@ -254,7 +255,7 @@ def main():
                       capture_output=True)
     
     # Run conversion
-    converter = DocumentConverter(current_dir)
+    converter = DocumentConverter(base_dir)
     converter.run_conversion()
 
 

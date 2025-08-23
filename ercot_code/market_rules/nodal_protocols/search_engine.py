@@ -15,7 +15,7 @@ import string
 from typing import List, Dict, Tuple, Set
 
 class ERCOTSearchEngine:
-    def __init__(self, base_dir="."):
+    def __init__(self, base_dir="/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"):
         self.base_dir = Path(base_dir)
         self.index_dir = self.base_dir / "search_index"
         self.index_dir.mkdir(exist_ok=True)
@@ -558,7 +558,8 @@ def main():
     print("ERCOT Nodal Protocols Search Engine")
     print("=" * 60)
     
-    engine = ERCOTSearchEngine()
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"
+    engine = ERCOTSearchEngine(base_dir)
     
     # Try to load existing index
     if not engine.load_index():

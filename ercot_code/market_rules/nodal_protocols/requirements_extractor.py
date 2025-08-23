@@ -12,7 +12,7 @@ from collections import defaultdict
 import csv
 
 class RequirementsExtractor:
-    def __init__(self, base_dir="."):
+    def __init__(self, base_dir="/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"):
         self.base_dir = Path(base_dir)
         self.output_dir = self.base_dir / "requirements_database"
         self.output_dir.mkdir(exist_ok=True)
@@ -581,7 +581,8 @@ def main():
     print("ERCOT Requirements Database Extractor")
     print("=" * 60)
     
-    extractor = RequirementsExtractor()
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nodal_protocols/"
+    extractor = RequirementsExtractor(base_dir)
     
     # Extract all requirements
     extractor.extract_all_requirements()

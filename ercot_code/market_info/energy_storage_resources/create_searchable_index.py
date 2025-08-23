@@ -38,10 +38,11 @@ class ESRKnowledgeIndex:
     def load_data(self):
         """Load knowledge base and extracted content."""
         try:
-            with open("ercot_esr_knowledge_base.json", 'r') as f:
+            base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_info/energy_storage_resources/"
+            with open(f"{base_dir}ercot_esr_knowledge_base.json", 'r') as f:
                 self.knowledge_base = json.load(f)
             
-            with open("ercot_esr_extracted_content.json", 'r') as f:
+            with open(f"{base_dir}ercot_esr_extracted_content.json", 'r') as f:
                 self.extracted_content = json.load(f)
             
             logger.info("Data loaded successfully")
@@ -231,7 +232,7 @@ class ESRKnowledgeIndex:
         
         return results[:20]  # Return top 20 results
     
-    def save_index(self, output_file: str = "ercot_esr_search_index.json"):
+    def save_index(self, output_file: str = "/pool/ssd8tb/data/iso/ERCOT/market_info/energy_storage_resources/ercot_esr_search_index.json"):
         """Save the search index to file."""
         with open(output_file, 'w') as f:
             json.dump(self.index, f, indent=2)

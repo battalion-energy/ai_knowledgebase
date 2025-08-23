@@ -11,7 +11,9 @@ from datetime import datetime
 from typing import Dict, List
 
 class BlogGenerator:
-    def __init__(self, analysis_dir: str = "nprr_analysis"):
+    def __init__(self, analysis_dir: str = None):
+        if analysis_dir is None:
+            analysis_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nprr/nprr_analysis"
         self.analysis_dir = Path(analysis_dir)
         self.blog_dir = self.analysis_dir / "blog_posts"
         self.blog_dir.mkdir(exist_ok=True)

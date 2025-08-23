@@ -29,7 +29,7 @@ except ImportError:
 class DocumentExtractor:
     """Extract content from Word and PowerPoint documents."""
     
-    def __init__(self, downloads_dir: str = "downloads"):
+    def __init__(self, downloads_dir: str = "/pool/ssd8tb/data/iso/ERCOT/market_info/energy_storage_resources/downloads"):
         self.downloads_dir = Path(downloads_dir)
         self.extracted_content = {
             "metadata": {

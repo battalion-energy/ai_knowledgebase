@@ -17,8 +17,9 @@ logger = logging.getLogger(__name__)
 
 def main():
     parser = argparse.ArgumentParser(description='Batch analyze specific NOGRRs')
-    parser.add_argument('--data-dir', default='nogrr_data', help='Directory with NOGRR data')
-    parser.add_argument('--output-dir', default='nogrr_analysis', help='Output directory')
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/"
+    parser.add_argument('--data-dir', default=f'{base_dir}/nogrr_data', help='Directory with NOGRR data')
+    parser.add_argument('--output-dir', default=f'{base_dir}/nogrr_analysis', help='Output directory')
     parser.add_argument('--ids-file', help='File containing NOGRR IDs to analyze (one per line)')
     parser.add_argument('--ids', nargs='+', help='NOGRR IDs to analyze')
     

@@ -828,7 +828,9 @@ if __name__ == "__main__":
     # Save COP to file if valid
     if results['cop_data']:
         cop_df = pd.DataFrame(results['cop_data'])
-        cop_df.to_csv('cop_submission.csv', index=False)
-        print("\nCOP saved to 'cop_submission.csv'")
+        base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/business_practice_manuals/"
+        output_file = f'{base_dir}/cop_submission.csv'
+        cop_df.to_csv(output_file, index=False)
+        print(f"\nCOP saved to '{output_file}'")
     
     print("\n=== COP Automation Complete ===")

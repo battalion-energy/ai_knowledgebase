@@ -23,9 +23,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class NOGRRDownloader:
-    def __init__(self, base_dir: str = "nogrr_data"):
+    def __init__(self, base_dir: str = None):
         self.base_url = "https://www.ercot.com"
         self.list_url = "https://www.ercot.com/mktrules/issues/reports/nogrr/approved"
+        if base_dir is None:
+            base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/nogrr_data"
         self.base_dir = Path(base_dir)
         self.base_dir.mkdir(exist_ok=True)
         self.session = requests.Session()
@@ -284,7 +286,7 @@ def main():
     
     parser = argparse.ArgumentParser(description='Download ERCOT NOGRRs')
     parser.add_argument('--limit', type=int, help='Limit number of NOGRRs to process')
-    parser.add_argument('--output-dir', default='nogrr_data', help='Output directory')
+    parser.add_argument('--output-dir', default=None, help='Output directory (default: /pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/nogrr_data)')
     
     args = parser.parse_args()
     

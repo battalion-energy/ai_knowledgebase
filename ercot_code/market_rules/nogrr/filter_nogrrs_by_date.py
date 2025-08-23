@@ -83,7 +83,8 @@ def create_filtered_list_file(nogrr_ids: list, output_file: str):
 
 def main():
     parser = argparse.ArgumentParser(description='Filter NOGRRs by date range')
-    parser.add_argument('--data-dir', default='nogrr_data', help='Directory with NOGRR data')
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nogrr/"
+    parser.add_argument('--data-dir', default=f'{base_dir}/nogrr_data', help='Directory with NOGRR data')
     parser.add_argument('--years', type=int, required=True, help='Number of years back to filter')
     parser.add_argument('--output', help='Output file for filtered NOGRR IDs')
     parser.add_argument('--json', action='store_true', help='Output as JSON')

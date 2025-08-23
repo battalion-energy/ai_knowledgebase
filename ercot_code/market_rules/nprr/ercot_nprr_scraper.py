@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class ERCOTNPRRScraper:
-    def __init__(self, base_dir: str = "nprr_data", status: str = "approved"):
+    def __init__(self, base_dir: str = None, status: str = "approved"):
         self.status = status
         if status == "approved":
             self.base_url = "https://www.ercot.com/mktrules/issues/reports/nprr/approved"
@@ -35,6 +35,8 @@ class ERCOTNPRRScraper:
         else:
             raise ValueError("Status must be 'approved', 'pending', or 'rejected'")
         
+        if base_dir is None:
+            base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nprr/nprr_data"
         self.base_dir = Path(base_dir)
         self.base_dir.mkdir(exist_ok=True)
         self.catalog_file = self.base_dir / f"nprr_{status}_catalog.json"
@@ -265,7 +267,7 @@ def main():
     
     parser = argparse.ArgumentParser(description='Scrape ERCOT NPRRs')
     parser.add_argument('--limit', type=int, help='Limit number of NPRRs to process')
-    parser.add_argument('--output-dir', default='nprr_data', help='Output directory')
+    parser.add_argument('--output-dir', default=None, help='Output directory (default: /pool/ssd8tb/data/iso/ERCOT/market_rules/nprr/nprr_data)')
     parser.add_argument('--force', action='store_true', help='Re-download existing NPRRs')
     parser.add_argument('--status', choices=['approved', 'pending', 'rejected'], default='approved',
                        help='Download approved, pending, or rejected NPRRs')

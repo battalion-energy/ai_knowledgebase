@@ -19,8 +19,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class SimplifiedNPRRAnalyzer:
-    def __init__(self, catalog_path: str = "nprr_data/nprr_catalog.json", 
-                 output_dir: str = "nprr_analysis", status: str = "approved"):
+    def __init__(self, catalog_path: str = None, 
+                 output_dir: str = None, status: str = "approved"):
+        base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/nprr/"
+        if catalog_path is None:
+            catalog_path = f"{base_dir}/nprr_data/nprr_catalog.json"
+        if output_dir is None:
+            output_dir = f"{base_dir}/nprr_analysis"
         self.catalog_path = Path(catalog_path)
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(exist_ok=True)

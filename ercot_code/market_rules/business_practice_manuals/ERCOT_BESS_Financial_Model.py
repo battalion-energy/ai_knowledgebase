@@ -400,7 +400,10 @@ class BESSFinancialModel:
         
         return pd.DataFrame(results)
     
-    def generate_report(self, output_file: str = 'bess_financial_report.json'):
+    def generate_report(self, output_file: str = None):
+        if output_file is None:
+            base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/business_practice_manuals/"
+            output_file = f"{base_dir}/bess_financial_report.json"
         """
         Generate comprehensive financial report
         """
@@ -590,7 +593,8 @@ if __name__ == "__main__":
     model = BESSFinancialModel(project_config)
     
     # Generate comprehensive report
-    report = model.generate_report('ercot_bess_financial_analysis.json')
+    base_dir = "/pool/ssd8tb/data/iso/ERCOT/market_rules/business_practice_manuals/"
+    report = model.generate_report(f'{base_dir}/ercot_bess_financial_analysis.json')
     
     # Print key results
     print("\n=== ERCOT BESS Financial Analysis ===")
@@ -614,4 +618,4 @@ if __name__ == "__main__":
     print(f"  95% VaR: ${mc_results['var_95']:,.0f}")
     print(f"  Range: ${mc_results['min_daily_revenue']:,.0f} - ${mc_results['max_daily_revenue']:,.0f}")
     
-    print("\nFinancial model complete. Report saved to 'ercot_bess_financial_analysis.json'")
+    print(f"\nFinancial model complete. Report saved to '{base_dir}/ercot_bess_financial_analysis.json'")
