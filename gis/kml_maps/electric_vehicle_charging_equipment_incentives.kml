@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2007">
+        <name>Electric Vehicle Charging Equipment Incentives</name>
+        <description>States shown have the specified policy</description>
+        <Folder id="2008">
+            <name>States</name>
+        </Folder>
+        <Placemark id="2010">
+            <Style id="2017">
+                <LineStyle id="2019">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="2018">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>District of Columbia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>District of Columbia</td></tr><tr><td><b>Density:</b></td><td>10065.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>*Does not include available in 46 states + DC.</td></tr><tr><td><b>Policy Type:</b></td><td>Electric Vehicle Charging Equipment Incentives</td></tr></table>]]></description>
+            <MultiGeometry id="2009">
+                <Polygon id="2011">
+                    <outerBoundaryIs>
+                        <LinearRing id="2015">
+                            <coordinates>-77.035264,38.993869,0.0 -76.909294,38.895284,0.0 -77.040741,38.791222,0.0 -77.117418,38.933623,0.0 -77.035264,38.993869,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="2021">
+            <Style id="2028">
+                <LineStyle id="2030">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="2029">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Nebraska</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Nebraska</td></tr><tr><td><b>Density:</b></td><td>23.97</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>state NEVI programs</td></tr><tr><td><b>Policy Type:</b></td><td>Electric Vehicle Charging Equipment Incentives</td></tr></table>]]></description>
+            <MultiGeometry id="2020">
+                <Polygon id="2022">
+                    <outerBoundaryIs>
+                        <LinearRing id="2026">
+                            <coordinates>-103.324578,43.002989,0.0 -101.626726,42.997512,0.0 -98.499393,42.997512,0.0 -98.466531,42.94822,0.0 -97.951699,42.767481,0.0 -97.831206,42.866066,0.0 -97.688806,42.844158,0.0 -97.217789,42.844158,0.0 -96.692003,42.657942,0.0 -96.626279,42.515542,0.0 -96.44554,42.488157,0.0 -96.264801,42.039048,0.0 -96.127878,41.973325,0.0 -96.062155,41.798063,0.0 -96.122401,41.67757,0.0 -96.095016,41.540646,0.0 -95.919754,41.453015,0.0 -95.925231,41.201076,0.0 -95.826646,40.976521,0.0 -95.881416,40.719105,0.0 -95.7664,40.587659,0.0 -95.552799,40.264519,0.0 -95.306337,40.001626,0.0 -101.90605,40.001626,0.0 -102.053927,40.001626,0.0 -102.053927,41.003906,0.0 -104.053011,41.003906,0.0 -104.053011,43.002989,0.0 -103.324578,43.002989,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

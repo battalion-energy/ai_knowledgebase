@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2447">
+        <name>Net Metering Policies</name>
+        <description>States shown have the specified policy</description>
+        <Folder id="2448">
+            <name>States</name>
+        </Folder>
+        <Placemark id="2450">
+            <Style id="2457">
+                <LineStyle id="2459">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="2458">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>District of Columbia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>District of Columbia</td></tr><tr><td><b>Density:</b></td><td>10065.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>State-developed mandatory rules for certain utilities (34 states + DC+ 3 territories) U.S. Territories: In transition to statewide distributed generation compensation rules other than net metering (0 </td></tr><tr><td><b>Policy Type:</b></td><td>Net Metering Policies</td></tr></table>]]></description>
+            <MultiGeometry id="2449">
+                <Polygon id="2451">
+                    <outerBoundaryIs>
+                        <LinearRing id="2455">
+                            <coordinates>-77.035264,38.993869,0.0 -76.909294,38.895284,0.0 -77.040741,38.791222,0.0 -77.117418,38.933623,0.0 -77.035264,38.993869,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="2461">
+            <Style id="2468">
+                <LineStyle id="2470">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="2469">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>New York</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>New York</td></tr><tr><td><b>Density:</b></td><td>412.3</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>NY: Other DG compensation rules are for large customer-generators</td></tr><tr><td><b>Policy Type:</b></td><td>Net Metering Policies</td></tr></table>]]></description>
+            <MultiGeometry id="2460">
+                <Polygon id="2462">
+                    <outerBoundaryIs>
+                        <LinearRing id="2466">
+                            <coordinates>-73.343806,45.013027,0.0 -73.332852,44.804903,0.0 -73.387622,44.618687,0.0 -73.294514,44.437948,0.0 -73.321898,44.246255,0.0 -73.436914,44.043608,0.0 -73.349283,43.769761,0.0 -73.404052,43.687607,0.0 -73.245221,43.523299,0.0 -73.278083,42.833204,0.0 -73.267129,42.745573,0.0 -73.508114,42.08834,0.0 -73.486206,42.050002,0.0 -73.55193,41.294184,0.0 -73.48073,41.21203,0.0 -73.727192,41.102491,0.0 -73.655992,40.987475,0.0 -73.22879,40.905321,0.0 -73.141159,40.965568,0.0 -72.774204,40.965568,0.0 -72.587988,40.998429,0.0 -72.28128,41.157261,0.0 -72.259372,41.042245,0.0 -72.100541,40.992952,0.0 -72.467496,40.845075,0.0 -73.239744,40.625997,0.0 -73.562884,40.582182,0.0 -73.776484,40.593136,0.0 -73.935316,40.543843,0.0 -74.022947,40.708151,0.0 -73.902454,40.998429,0.0 -74.236547,41.14083,0.0 -74.69661,41.359907,0.0 -74.740426,41.431108,0.0 -74.89378,41.436584,0.0 -75.074519,41.60637,0.0 -75.052611,41.754247,0.0 -75.173104,41.869263,0.0 -75.249781,41.863786,0.0 -75.35932,42.000709,0.0 -79.76278,42.000709,0.0 -79.76278,42.252649,0.0 -79.76278,42.269079,0.0 -79.149363,42.55388,0.0 -79.050778,42.690804,0.0 -78.853608,42.783912,0.0 -78.930285,42.953697,0.0 -79.012439,42.986559,0.0 -79.072686,43.260406,0.0 -78.486653,43.375421,0.0 -77.966344,43.369944,0.0 -77.75822,43.34256,0.0 -77.533665,43.233021,0.0 -77.391265,43.276836,0.0 -76.958587,43.271359,0.0 -76.695693,43.34256,0.0 -76.41637,43.523299,0.0 -76.235631,43.528776,0.0 -76.230154,43.802623,0.0 -76.137046,43.961454,0.0 -76.3616,44.070993,0.0 -76.312308,44.196962,0.0 -75.912491,44.366748,0.0 -75.764614,44.514625,0.0 -75.282643,44.848718,0.0 -74.828057,45.018503,0.0 -74.148916,44.991119,0.0 -73.343806,45.013027,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="2472">
+            <Style id="2479">
+                <LineStyle id="2481">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="2480">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Puerto Rico</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Puerto Rico</td></tr><tr><td><b>Density:</b></td><td>1082.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>VI PR GU Statewide distributed generation compensation rules other than net metering (14 states) No statewide mandatory rules, but some utilities allow net metering (2 states)</td></tr><tr><td><b>Policy Type:</b></td><td>Net Metering Policies</td></tr></table>]]></description>
+            <MultiGeometry id="2471">
+                <Polygon id="2473">
+                    <outerBoundaryIs>
+                        <LinearRing id="2477">
+                            <coordinates>-66.448338,17.984326,0.0 -66.771478,18.006234,0.0 -66.924832,17.929556,0.0 -66.985078,17.973372,0.0 -67.209633,17.956941,0.0 -67.154863,18.19245,0.0 -67.269879,18.362235,0.0 -67.094617,18.515589,0.0 -66.957694,18.488204,0.0 -66.409999,18.488204,0.0 -65.840398,18.433435,0.0 -65.632274,18.367712,0.0 -65.626797,18.203403,0.0 -65.730859,18.186973,0.0 -65.834921,18.017187,0.0 -66.234737,17.929556,0.0 -66.448338,17.984326,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "energy_storage_financial_incentives",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "11", "name": "District of Columbia", "density": 10065.0, "has_policy": true, "policy_details": "22 states plus DC, PR, and VI have statewide incentives for energy storage. An additional 6 have utilities offering direct incentives. KEY State Property or Sales Tax Incentive U.S. Territories: State Grant, Rebate, or Performance-Based Incentive Program", "policy_type": "Energy Storage Financial Incentives" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.035264, 38.993869 ], [ -76.909294, 38.895284 ], [ -77.040741, 38.791222 ], [ -77.117418, 38.933623 ], [ -77.035264, 38.993869 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "72", "name": "Puerto Rico", "density": 1082.0, "has_policy": true, "policy_details": "AS PR Utility Rebate Program(s)", "policy_type": "Energy Storage Financial Incentives" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -66.448338, 17.984326 ], [ -66.771478, 18.006234 ], [ -66.924832, 17.929556 ], [ -66.985078, 17.973372 ], [ -67.209633, 17.956941 ], [ -67.154863, 18.19245 ], [ -67.269879, 18.362235 ], [ -67.094617, 18.515589 ], [ -66.957694, 18.488204 ], [ -66.409999, 18.488204 ], [ -65.840398, 18.433435 ], [ -65.632274, 18.367712 ], [ -65.626797, 18.203403 ], [ -65.730859, 18.186973 ], [ -65.834921, 18.017187 ], [ -66.234737, 17.929556 ], [ -66.448338, 17.984326 ] ] ] } }
+]
+}

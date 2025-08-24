@@ -23,6 +23,11 @@ model User {
   emailVerified   DateTime?
   battalionId     String?   @unique // Link to Battalion Platform user
   
+  // Organizational hierarchy
+  teamMemberships TeamMember[]
+  ownedPortfolios Portfolio[] @relation("PortfolioOwner")
+  ownedProjects   Project[]   @relation("ProjectOwner")
+  
   // Relations
   accounts        Account[]
   sessions        Session[]
@@ -84,6 +89,233 @@ model Session {
 }
 
 // ============================================
+// Organizational Hierarchy Models
+// ============================================
+
+model Company {
+  id              String    @id @default(cuid())
+  name            String    @unique
+  displayName     String
+  description     String?
+  logo            String?
+  website         String?
+  
+  // Contact info
+  email           String?
+  phone           String?
+  address         String?
+  
+  // Settings
+  settings        Json      @default("{}")
+  features        String[]  // Enabled features
+  
+  // Relations
+  teams           Team[]
+  portfolios      Portfolio[]
+  projects        Project[]
+  
+  // Billing (if needed)
+  stripeCustomerId String?  @unique
+  subscription    String?   // 'free', 'pro', 'enterprise'
+  
+  // Timestamps
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([name])
+}
+
+model Team {
+  id              String    @id @default(cuid())
+  name            String
+  description     String?
+  companyId       String
+  company         Company   @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  
+  // Team settings
+  permissions     String[]  // Array of permission keys
+  settings        Json      @default("{}")
+  
+  // Relations
+  members         TeamMember[]
+  portfolios      Portfolio[]
+  projects        Project[]
+  
+  // Timestamps
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@unique([companyId, name])
+  @@index([companyId])
+}
+
+model TeamMember {
+  id              String    @id @default(cuid())
+  teamId          String
+  team            Team      @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  role            TeamRole  @default(MEMBER)
+  permissions     String[]  // Additional permissions
+  
+  // Timestamps
+  joinedAt        DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@unique([teamId, userId])
+  @@index([teamId])
+  @@index([userId])
+}
+
+enum TeamRole {
+  OWNER
+  ADMIN
+  MEMBER
+  VIEWER
+}
+
+model Portfolio {
+  id              String    @id @default(cuid())
+  name            String
+  description     String?
+  
+  // Ownership
+  companyId       String
+  company         Company   @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  teamId          String?
+  team            Team?     @relation(fields: [teamId], references: [id], onDelete: SetNull)
+  ownerId         String
+  owner           User      @relation("PortfolioOwner", fields: [ownerId], references: [id])
+  
+  // Portfolio metadata
+  tags            String[]
+  status          PortfolioStatus @default(ACTIVE)
+  visibility      Visibility      @default(PRIVATE)
+  
+  // Relations
+  projects        Project[]
+  documents       PortfolioDocument[]
+  
+  // Metrics
+  totalProjects   Int       @default(0)
+  totalValue      Float?    // Total portfolio value
+  
+  // Timestamps
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([companyId])
+  @@index([teamId])
+  @@index([ownerId])
+}
+
+enum PortfolioStatus {
+  ACTIVE
+  ARCHIVED
+  DRAFT
+}
+
+model Project {
+  id              String    @id @default(cuid())
+  name            String
+  description     String?
+  
+  // Ownership
+  companyId       String
+  company         Company   @relation(fields: [companyId], references: [id], onDelete: Cascade)
+  teamId          String?
+  team            Team?     @relation(fields: [teamId], references: [id], onDelete: SetNull)
+  portfolioId     String
+  portfolio       Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+  ownerId         String
+  owner           User      @relation("ProjectOwner", fields: [ownerId], references: [id])
+  
+  // Project metadata
+  projectType     ProjectType
+  status          ProjectStatus @default(PLANNING)
+  startDate       DateTime?
+  endDate         DateTime?
+  budget          Float?
+  
+  // Location (for energy projects)
+  location        String?
+  latitude        Float?
+  longitude       Float?
+  
+  // Energy-specific fields
+  capacity        Float?    // MW
+  energyType      String?   // 'solar', 'wind', 'battery', etc.
+  
+  // Relations
+  documents       ProjectDocument[]
+  
+  // Settings
+  settings        Json      @default("{}")
+  metadata        Json?     // Flexible metadata
+  
+  // Timestamps
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+  
+  @@index([companyId])
+  @@index([teamId])
+  @@index([portfolioId])
+  @@index([ownerId])
+}
+
+enum ProjectType {
+  SOLAR
+  WIND
+  BATTERY
+  HYBRID
+  TRANSMISSION
+  OTHER
+}
+
+enum ProjectStatus {
+  PLANNING
+  DEVELOPMENT
+  CONSTRUCTION
+  OPERATIONAL
+  DECOMMISSIONED
+  ON_HOLD
+  CANCELLED
+}
+
+// Link documents to portfolios
+model PortfolioDocument {
+  id              String    @id @default(cuid())
+  portfolioId     String
+  portfolio       Portfolio @relation(fields: [portfolioId], references: [id], onDelete: Cascade)
+  documentId      String
+  document        Document  @relation(fields: [documentId], references: [id], onDelete: Cascade)
+  
+  addedAt         DateTime  @default(now())
+  addedBy         String?   // User ID who added it
+  
+  @@unique([portfolioId, documentId])
+  @@index([portfolioId])
+  @@index([documentId])
+}
+
+// Link documents to projects
+model ProjectDocument {
+  id              String    @id @default(cuid())
+  projectId       String
+  project         Project   @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  documentId      String
+  document        Document  @relation(fields: [documentId], references: [id], onDelete: Cascade)
+  
+  addedAt         DateTime  @default(now())
+  addedBy         String?   // User ID who added it
+  
+  @@unique([projectId, documentId])
+  @@index([projectId])
+  @@index([documentId])
+}
+
+// ============================================
 // Document Models
 // ============================================
 
@@ -121,6 +353,8 @@ model Document {
   versions        DocumentVersion[]
   relatedDocs     DocumentRelation[] @relation("FromDocument")
   relatedTo       DocumentRelation[] @relation("ToDocument")
+  portfolioDocuments PortfolioDocument[]
+  projectDocuments   ProjectDocument[]
   
   // Timestamps
   createdAt       DateTime  @default(now())

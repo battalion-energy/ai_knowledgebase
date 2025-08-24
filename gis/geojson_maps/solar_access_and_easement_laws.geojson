@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "solar_access_and_easement_laws",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "11", "name": "District of Columbia", "density": 10065.0, "has_policy": true, "policy_details": "states + DC. No Solar Easement or Access Laws", "policy_type": "Solar Access and Easement Laws" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.035264, 38.993869 ], [ -76.909294, 38.895284 ], [ -77.040741, 38.791222 ], [ -77.117418, 38.933623 ], [ -77.035264, 38.993869 ] ] ] } }
+]
+}

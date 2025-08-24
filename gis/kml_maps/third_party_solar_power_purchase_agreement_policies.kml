@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1163">
+        <name>Third Party Solar Power Purchase Agreement Policies</name>
+        <description>States shown have the specified policy</description>
+        <Folder id="1164">
+            <name>States</name>
+        </Folder>
+        <Placemark id="1166">
+            <Style id="1173">
+                <LineStyle id="1175">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1174">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Alabama</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Alabama</td></tr><tr><td><b>Density:</b></td><td>94.65</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Alabama: AL code § 37-14-32 ● Mississippi:Any entity selling electricity is subject to public utility</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1165">
+                <Polygon id="1167">
+                    <outerBoundaryIs>
+                        <LinearRing id="1171">
+                            <coordinates>-87.359296,35.00118,0.0 -85.606675,34.984749,0.0 -85.431413,34.124869,0.0 -85.184951,32.859696,0.0 -85.069935,32.580372,0.0 -84.960397,32.421541,0.0 -85.004212,32.322956,0.0 -84.889196,32.262709,0.0 -85.058981,32.13674,0.0 -85.053504,32.01077,0.0 -85.141136,31.840985,0.0 -85.042551,31.539753,0.0 -85.113751,31.27686,0.0 -85.004212,31.003013,0.0 -85.497137,30.997536,0.0 -87.600282,30.997536,0.0 -87.633143,30.86609,0.0 -87.408589,30.674397,0.0 -87.446927,30.510088,0.0 -87.37025,30.427934,0.0 -87.518128,30.280057,0.0 -87.655051,30.247195,0.0 -87.90699,30.411504,0.0 -87.934375,30.657966,0.0 -88.011052,30.685351,0.0 -88.10416,30.499135,0.0 -88.137022,30.318396,0.0 -88.394438,30.367688,0.0 -88.471115,31.895754,0.0 -88.241084,33.796253,0.0 -88.098683,34.891641,0.0 -88.202745,34.995703,0.0 -87.359296,35.00118,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1177">
+            <Style id="1184">
+                <LineStyle id="1186">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1185">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Arizona</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Arizona</td></tr><tr><td><b>Density:</b></td><td>57.05</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Arizona: ACC Decision 71795, Docket E-20690A-09-0346 (limited regulations stipulated in MS code §77-3-3, but MS net metering to schools, governments or other non-profit entities) rules explicitly al</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1176">
+                <Polygon id="1178">
+                    <outerBoundaryIs>
+                        <LinearRing id="1182">
+                            <coordinates>-109.042503,37.000263,0.0 -109.04798,31.331629,0.0 -111.074448,31.331629,0.0 -112.246513,31.704061,0.0 -114.815198,32.492741,0.0 -114.72209,32.717295,0.0 -114.524921,32.755634,0.0 -114.470151,32.843265,0.0 -114.524921,33.029481,0.0 -114.661844,33.034958,0.0 -114.727567,33.40739,0.0 -114.524921,33.54979,0.0 -114.497536,33.697668,0.0 -114.535874,33.933176,0.0 -114.415382,34.108438,0.0 -114.256551,34.174162,0.0 -114.136058,34.305608,0.0 -114.333228,34.448009,0.0 -114.470151,34.710902,0.0 -114.634459,34.87521,0.0 -114.634459,35.00118,0.0 -114.574213,35.138103,0.0 -114.596121,35.324319,0.0 -114.678275,35.516012,0.0 -114.738521,36.102045,0.0 -114.371566,36.140383,0.0 -114.251074,36.01989,0.0 -114.152489,36.025367,0.0 -114.048427,36.195153,0.0 -114.048427,37.000263,0.0 -110.499369,37.00574,0.0 -109.042503,37.000263,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1188">
+            <Style id="1195">
+                <LineStyle id="1197">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1196">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Arkansas</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Arkansas</td></tr><tr><td><b>Density:</b></td><td>56.43</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Arkansas: S.B. 145 (2019) (limited to Solar Services Agreements ● Nevada: NRS 704.021 (A.B. 186, 2009); PUC Orders 07-06024 qualifying for safe harbor protection under 26 U.S.C. 7701(e)(3)(A) and 07</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1187">
+                <Polygon id="1189">
+                    <outerBoundaryIs>
+                        <LinearRing id="1193">
+                            <coordinates>-94.473842,36.501861,0.0 -90.152536,36.496384,0.0 -90.064905,36.304691,0.0 -90.218259,36.184199,0.0 -90.377091,35.997983,0.0 -89.730812,35.997983,0.0 -89.763673,35.811767,0.0 -89.911551,35.756997,0.0 -89.944412,35.603643,0.0 -90.130628,35.439335,0.0 -90.114197,35.198349,0.0 -90.212782,35.023087,0.0 -90.311367,34.995703,0.0 -90.251121,34.908072,0.0 -90.409952,34.831394,0.0 -90.481152,34.661609,0.0 -90.585214,34.617794,0.0 -90.568783,34.420624,0.0 -90.749522,34.365854,0.0 -90.744046,34.300131,0.0 -90.952169,34.135823,0.0 -90.891923,34.026284,0.0 -91.072662,33.867453,0.0 -91.231493,33.560744,0.0 -91.056231,33.429298,0.0 -91.143862,33.347144,0.0 -91.089093,33.13902,0.0 -91.16577,33.002096,0.0 -93.608485,33.018527,0.0 -94.041164,33.018527,0.0 -94.041164,33.54979,0.0 -94.183564,33.593606,0.0 -94.380734,33.544313,0.0 -94.484796,33.637421,0.0 -94.430026,35.395519,0.0 -94.616242,36.501861,0.0 -94.473842,36.501861,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1199">
+            <Style id="1206">
+                <LineStyle id="1208">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1207">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>California</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>California</td></tr><tr><td><b>Density:</b></td><td>241.7</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● California: Cal. Pub. Util. Code §218, §2868 ● New Hampshire:PUC 902.03; PUC Docket DE 10-212 (letter 1/31/12)</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1198">
+                <Polygon id="1200">
+                    <outerBoundaryIs>
+                        <LinearRing id="1204">
+                            <coordinates>-123.233256,42.006186,0.0 -122.378853,42.011663,0.0 -121.037003,41.995232,0.0 -120.001861,41.995232,0.0 -119.996384,40.264519,0.0 -120.001861,38.999346,0.0 -118.71478,38.101128,0.0 -117.498899,37.21934,0.0 -116.540435,36.501861,0.0 -115.85034,35.970598,0.0 -114.634459,35.00118,0.0 -114.634459,34.87521,0.0 -114.470151,34.710902,0.0 -114.333228,34.448009,0.0 -114.136058,34.305608,0.0 -114.256551,34.174162,0.0 -114.415382,34.108438,0.0 -114.535874,33.933176,0.0 -114.497536,33.697668,0.0 -114.524921,33.54979,0.0 -114.727567,33.40739,0.0 -114.661844,33.034958,0.0 -114.524921,33.029481,0.0 -114.470151,32.843265,0.0 -114.524921,32.755634,0.0 -114.72209,32.717295,0.0 -116.04751,32.624187,0.0 -117.126467,32.536556,0.0 -117.24696,32.668003,0.0 -117.252437,32.876127,0.0 -117.329114,33.122589,0.0 -117.471515,33.297851,0.0 -117.7837,33.538836,0.0 -118.183517,33.763391,0.0 -118.260194,33.703145,0.0 -118.413548,33.741483,0.0 -118.391641,33.840068,0.0 -118.566903,34.042715,0.0 -118.802411,33.998899,0.0 -119.218659,34.146777,0.0 -119.278905,34.26727,0.0 -119.558229,34.415147,0.0 -119.875891,34.40967,0.0 -120.138784,34.475393,0.0 -120.472878,34.448009,0.0 -120.64814,34.579455,0.0 -120.609801,34.858779,0.0 -120.670048,34.902595,0.0 -120.631709,35.099764,0.0 -120.894602,35.247642,0.0 -120.905556,35.450289,0.0 -121.004141,35.461243,0.0 -121.168449,35.636505,0.0 -121.283465,35.674843,0.0 -121.332757,35.784382,0.0 -121.716143,36.195153,0.0 -121.896882,36.315645,0.0 -121.935221,36.638785,0.0 -121.858544,36.6114,0.0 -121.787344,36.803093,0.0 -121.929744,36.978355,0.0 -122.105006,36.956447,0.0 -122.335038,37.115279,0.0 -122.417192,37.241248,0.0 -122.400761,37.361741,0.0 -122.515777,37.520572,0.0 -122.515777,37.783465,0.0 -122.329561,37.783465,0.0 -122.406238,38.15042,0.0 -122.488392,38.112082,0.0 -122.504823,37.931343,0.0 -122.701993,37.893004,0.0 -122.937501,38.029928,0.0 -122.97584,38.265436,0.0 -123.129194,38.451652,0.0 -123.331841,38.566668,0.0 -123.44138,38.698114,0.0 -123.737134,38.95553,0.0 -123.687842,39.032208,0.0 -123.824765,39.366301,0.0 -123.764519,39.552517,0.0 -123.85215,39.831841,0.0 -124.109566,40.105688,0.0 -124.361506,40.259042,0.0 -124.410798,40.439781,0.0 -124.158859,40.877937,0.0 -124.109566,41.025814,0.0 -124.158859,41.14083,0.0 -124.065751,41.442061,0.0 -124.147905,41.715908,0.0 -124.257444,41.781632,0.0 -124.213628,42.000709,0.0 -123.233256,42.006186,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1210">
+            <Style id="1217">
+                <LineStyle id="1219">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1218">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Colorado</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Colorado</td></tr><tr><td><b>Density:</b></td><td>49.33</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Colorado: S.B. 09-051; PUC Decision C09-0990, Docket No.</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1209">
+                <Polygon id="1211">
+                    <outerBoundaryIs>
+                        <LinearRing id="1215">
+                            <coordinates>-107.919731,41.003906,0.0 -105.728954,40.998429,0.0 -104.053011,41.003906,0.0 -102.053927,41.003906,0.0 -102.053927,40.001626,0.0 -102.042974,36.994786,0.0 -103.001438,37.000263,0.0 -104.337812,36.994786,0.0 -106.868158,36.994786,0.0 -107.421329,37.000263,0.0 -109.042503,37.000263,0.0 -109.042503,38.166851,0.0 -109.058934,38.27639,0.0 -109.053457,39.125316,0.0 -109.04798,40.998429,0.0 -107.919731,41.003906,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1221">
+            <Style id="1228">
+                <LineStyle id="1230">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1229">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Connecticut</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Connecticut</td></tr><tr><td><b>Density:</b></td><td>739.1</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Connecticut: Connecticut Green Bank ● New York: NY CLS Public Service §2.13</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1220">
+                <Polygon id="1222">
+                    <outerBoundaryIs>
+                        <LinearRing id="1226">
+                            <coordinates>-73.053528,42.039048,0.0 -71.799309,42.022617,0.0 -71.799309,42.006186,0.0 -71.799309,41.414677,0.0 -71.859555,41.321569,0.0 -71.947186,41.338,0.0 -72.385341,41.261322,0.0 -72.905651,41.28323,0.0 -73.130205,41.146307,0.0 -73.371191,41.102491,0.0 -73.655992,40.987475,0.0 -73.727192,41.102491,0.0 -73.48073,41.21203,0.0 -73.55193,41.294184,0.0 -73.486206,42.050002,0.0 -73.053528,42.039048,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1232">
+            <Style id="1239">
+                <LineStyle id="1241">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1240">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Delaware</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Delaware</td></tr><tr><td><b>Density:</b></td><td>464.3</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Delaware: Del. Code Title 26, Chapter 10, 1014 (d) Sales, but H.B. 589 (2017) explicitly allows leasing of solar equipment</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1231">
+                <Polygon id="1233">
+                    <outerBoundaryIs>
+                        <LinearRing id="1237">
+                            <coordinates>-75.414089,39.804456,0.0 -75.507197,39.683964,0.0 -75.611259,39.61824,0.0 -75.589352,39.459409,0.0 -75.441474,39.311532,0.0 -75.403136,39.065069,0.0 -75.189535,38.807653,0.0 -75.09095,38.796699,0.0 -75.047134,38.451652,0.0 -75.693413,38.462606,0.0 -75.786521,39.722302,0.0 -75.616736,39.831841,0.0 -75.414089,39.804456,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1243">
+            <Style id="1250">
+                <LineStyle id="1252">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1251">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>District of Columbia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>District of Columbia</td></tr><tr><td><b>Density:</b></td><td>10065.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>DC</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1242">
+                <Polygon id="1244">
+                    <outerBoundaryIs>
+                        <LinearRing id="1248">
+                            <coordinates>-77.035264,38.993869,0.0 -76.909294,38.895284,0.0 -77.040741,38.791222,0.0 -77.117418,38.933623,0.0 -77.035264,38.993869,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1254">
+            <Style id="1261">
+                <LineStyle id="1263">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1262">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Florida</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Florida</td></tr><tr><td><b>Density:</b></td><td>353.4</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Florida: PSC Decision: Docket 860725-EU; Order 17009 (1987);</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1253">
+                <Polygon id="1255">
+                    <outerBoundaryIs>
+                        <LinearRing id="1259">
+                            <coordinates>-85.497137,30.997536,0.0 -85.004212,31.003013,0.0 -84.867289,30.712735,0.0 -83.498053,30.647012,0.0 -82.216449,30.570335,0.0 -82.167157,30.356734,0.0 -82.046664,30.362211,0.0 -82.002849,30.564858,0.0 -82.041187,30.751074,0.0 -81.948079,30.827751,0.0 -81.718048,30.745597,0.0 -81.444201,30.707258,0.0 -81.383954,30.27458,0.0 -81.257985,29.787132,0.0 -80.967707,29.14633,0.0 -80.524075,28.461713,0.0 -80.589798,28.41242,0.0 -80.56789,28.094758,0.0 -80.381674,27.738757,0.0 -80.091397,27.021277,0.0 -80.03115,26.796723,0.0 -80.036627,26.566691,0.0 -80.146166,25.739673,0.0 -80.239274,25.723243,0.0 -80.337859,25.465826,0.0 -80.304997,25.383672,0.0 -80.49669,25.197456,0.0 -80.573367,25.241272,0.0 -80.759583,25.164595,0.0 -81.077246,25.120779,0.0 -81.170354,25.224841,0.0 -81.126538,25.378195,0.0 -81.351093,25.821827,0.0 -81.526355,25.903982,0.0 -81.679709,25.843735,0.0 -81.800202,26.090198,0.0 -81.833064,26.292844,0.0 -82.041187,26.517399,0.0 -82.09048,26.665276,0.0 -82.057618,26.878877,0.0 -82.172634,26.917216,0.0 -82.145249,26.791246,0.0 -82.249311,26.758384,0.0 -82.566974,27.300601,0.0 -82.692943,27.437525,0.0 -82.391711,27.837342,0.0 -82.588881,27.815434,0.0 -82.720328,27.689464,0.0 -82.851774,27.886634,0.0 -82.676512,28.434328,0.0 -82.643651,28.888914,0.0 -82.764143,28.998453,0.0 -82.802482,29.14633,0.0 -82.994175,29.179192,0.0 -83.218729,29.420177,0.0 -83.399469,29.518762,0.0 -83.410422,29.66664,0.0 -83.536392,29.721409,0.0 -83.640454,29.885717,0.0 -84.02384,30.104795,0.0 -84.357933,30.055502,0.0 -84.341502,29.902148,0.0 -84.451041,29.929533,0.0 -84.867289,29.743317,0.0 -85.310921,29.699501,0.0 -85.299967,29.80904,0.0 -85.404029,29.940487,0.0 -85.924338,30.236241,0.0 -86.29677,30.362211,0.0 -86.630863,30.395073,0.0 -86.910187,30.373165,0.0 -87.518128,30.280057,0.0 -87.37025,30.427934,0.0 -87.446927,30.510088,0.0 -87.408589,30.674397,0.0 -87.633143,30.86609,0.0 -87.600282,30.997536,0.0 -85.497137,30.997536,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1265">
+            <Style id="1272">
+                <LineStyle id="1274">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1273">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Georgia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Georgia</td></tr><tr><td><b>Density:</b></td><td>169.5</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Georgia: H.B. 57 (2015) ● Oklahoma: Attorney General Opinion 2018-5</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1264">
+                <Polygon id="1266">
+                    <outerBoundaryIs>
+                        <LinearRing id="1270">
+                            <coordinates>-83.109191,35.00118,0.0 -83.322791,34.787579,0.0 -83.339222,34.683517,0.0 -83.005129,34.469916,0.0 -82.901067,34.486347,0.0 -82.747713,34.26727,0.0 -82.714851,34.152254,0.0 -82.55602,33.94413,0.0 -82.325988,33.81816,0.0 -82.194542,33.631944,0.0 -81.926172,33.462159,0.0 -81.937125,33.347144,0.0 -81.761863,33.160928,0.0 -81.493493,33.007573,0.0 -81.42777,32.843265,0.0 -81.416816,32.629664,0.0 -81.279893,32.558464,0.0 -81.121061,32.290094,0.0 -81.115584,32.120309,0.0 -80.885553,32.032678,0.0 -81.132015,31.693108,0.0 -81.175831,31.517845,0.0 -81.279893,31.364491,0.0 -81.290846,31.20566,0.0 -81.400385,31.13446,0.0 -81.444201,30.707258,0.0 -81.718048,30.745597,0.0 -81.948079,30.827751,0.0 -82.041187,30.751074,0.0 -82.002849,30.564858,0.0 -82.046664,30.362211,0.0 -82.167157,30.356734,0.0 -82.216449,30.570335,0.0 -83.498053,30.647012,0.0 -84.867289,30.712735,0.0 -85.004212,31.003013,0.0 -85.113751,31.27686,0.0 -85.042551,31.539753,0.0 -85.141136,31.840985,0.0 -85.053504,32.01077,0.0 -85.058981,32.13674,0.0 -84.889196,32.262709,0.0 -85.004212,32.322956,0.0 -84.960397,32.421541,0.0 -85.069935,32.580372,0.0 -85.184951,32.859696,0.0 -85.431413,34.124869,0.0 -85.606675,34.984749,0.0 -84.319594,34.990226,0.0 -83.618546,34.984749,0.0 -83.109191,35.00118,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1276">
+            <Style id="1283">
+                <LineStyle id="1285">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1284">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1292">
+                <LineStyle id="1294">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1293">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1301">
+                <LineStyle id="1303">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1302">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1310">
+                <LineStyle id="1312">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1311">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1319">
+                <LineStyle id="1321">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1320">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Hawaii</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Hawaii</td></tr><tr><td><b>Density:</b></td><td>214.1</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Hawaii: S.B. 704 (2011) ● Oregon: PUC Order No. 08-388; O.R.S §757.005</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1275">
+                <Polygon id="1277">
+                    <outerBoundaryIs>
+                        <LinearRing id="1281">
+                            <coordinates>-155.634835,18.948267,0.0 -155.881297,19.035898,0.0 -155.919636,19.123529,0.0 -155.886774,19.348084,0.0 -156.062036,19.73147,0.0 -155.925113,19.857439,0.0 -155.826528,20.032702,0.0 -155.897728,20.147717,0.0 -155.87582,20.26821,0.0 -155.596496,20.12581,0.0 -155.284311,20.021748,0.0 -155.092618,19.868393,0.0 -155.092618,19.736947,0.0 -154.807817,19.523346,0.0 -154.983079,19.348084,0.0 -155.295265,19.26593,0.0 -155.514342,19.134483,0.0 -155.634835,18.948267,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1286">
+                    <outerBoundaryIs>
+                        <LinearRing id="1290">
+                            <coordinates>-156.587823,21.029505,0.0 -156.472807,20.892581,0.0 -156.324929,20.952827,0.0 -156.00179,20.793996,0.0 -156.051082,20.651596,0.0 -156.379699,20.580396,0.0 -156.445422,20.60778,0.0 -156.461853,20.783042,0.0 -156.631638,20.821381,0.0 -156.697361,20.919966,0.0 -156.587823,21.029505,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1295">
+                    <outerBoundaryIs>
+                        <LinearRing id="1299">
+                            <coordinates>-156.982162,21.210244,0.0 -157.080747,21.106182,0.0 -157.310779,21.106182,0.0 -157.239579,21.221198,0.0 -156.982162,21.210244,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1304">
+                    <outerBoundaryIs>
+                        <LinearRing id="1308">
+                            <coordinates>-157.951581,21.697691,0.0 -157.842042,21.462183,0.0 -157.896811,21.325259,0.0 -158.110412,21.303352,0.0 -158.252813,21.582676,0.0 -158.126843,21.588153,0.0 -157.951581,21.697691,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1313">
+                    <outerBoundaryIs>
+                        <LinearRing id="1317">
+                            <coordinates>-159.468693,22.228955,0.0 -159.353678,22.218001,0.0 -159.298908,22.113939,0.0 -159.33177,21.966061,0.0 -159.446786,21.872953,0.0 -159.764448,21.987969,0.0 -159.726109,22.152277,0.0 -159.468693,22.228955,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1323">
+            <Style id="1330">
+                <LineStyle id="1332">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1331">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Illinois</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Illinois</td></tr><tr><td><b>Density:</b></td><td>231.5</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Illinois: 220 ILCS 5/3-105, 16-102; 83 Ill. Adm. Code, Part 465 ● Pennsylvania: PUC Order, Docket M-2011-2249441</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1322">
+                <Polygon id="1324">
+                    <outerBoundaryIs>
+                        <LinearRing id="1328">
+                            <coordinates>-90.639984,42.510065,0.0 -88.788778,42.493634,0.0 -87.802929,42.493634,0.0 -87.83579,42.301941,0.0 -87.682436,42.077386,0.0 -87.523605,41.710431,0.0 -87.529082,39.34987,0.0 -87.63862,39.169131,0.0 -87.512651,38.95553,0.0 -87.49622,38.780268,0.0 -87.62219,38.637868,0.0 -87.655051,38.506421,0.0 -87.83579,38.292821,0.0 -87.950806,38.27639,0.0 -87.923421,38.15042,0.0 -88.000098,38.101128,0.0 -88.060345,37.865619,0.0 -88.027483,37.799896,0.0 -88.15893,37.657496,0.0 -88.065822,37.482234,0.0 -88.476592,37.389126,0.0 -88.514931,37.285064,0.0 -88.421823,37.153617,0.0 -88.547792,37.071463,0.0 -88.914747,37.224817,0.0 -89.029763,37.213863,0.0 -89.183118,37.038601,0.0 -89.133825,36.983832,0.0 -89.292656,36.994786,0.0 -89.517211,37.279587,0.0 -89.435057,37.34531,0.0 -89.517211,37.537003,0.0 -89.517211,37.690357,0.0 -89.84035,37.903958,0.0 -89.949889,37.88205,0.0 -90.059428,38.013497,0.0 -90.355183,38.216144,0.0 -90.349706,38.374975,0.0 -90.179921,38.632391,0.0 -90.207305,38.725499,0.0 -90.10872,38.845992,0.0 -90.251121,38.917192,0.0 -90.470199,38.961007,0.0 -90.585214,38.867899,0.0 -90.661891,38.928146,0.0 -90.727615,39.256762,0.0 -91.061708,39.470363,0.0 -91.368417,39.727779,0.0 -91.494386,40.034488,0.0 -91.50534,40.237135,0.0 -91.417709,40.379535,0.0 -91.401278,40.560274,0.0 -91.121954,40.669813,0.0 -91.09457,40.823167,0.0 -90.963123,40.921752,0.0 -90.946692,41.097014,0.0 -91.111001,41.239415,0.0 -91.045277,41.414677,0.0 -90.656414,41.463969,0.0 -90.344229,41.589939,0.0 -90.311367,41.743293,0.0 -90.179921,41.809016,0.0 -90.141582,42.000709,0.0 -90.168967,42.126679,0.0 -90.393521,42.225264,0.0 -90.420906,42.329326,0.0 -90.639984,42.510065,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1334">
+            <Style id="1341">
+                <LineStyle id="1343">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1342">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Iowa</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Iowa</td></tr><tr><td><b>Density:</b></td><td>54.81</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>a “public utility” under Iowa law) ● South Carolina: SC Code Section 58-27-2610(E) and Section 58-</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1333">
+                <Polygon id="1335">
+                    <outerBoundaryIs>
+                        <LinearRing id="1339">
+                            <coordinates>-91.368417,43.501391,0.0 -91.215062,43.501391,0.0 -91.204109,43.353514,0.0 -91.056231,43.254929,0.0 -91.176724,43.134436,0.0 -91.143862,42.909881,0.0 -91.067185,42.75105,0.0 -90.711184,42.636034,0.0 -90.639984,42.510065,0.0 -90.420906,42.329326,0.0 -90.393521,42.225264,0.0 -90.168967,42.126679,0.0 -90.141582,42.000709,0.0 -90.179921,41.809016,0.0 -90.311367,41.743293,0.0 -90.344229,41.589939,0.0 -90.656414,41.463969,0.0 -91.045277,41.414677,0.0 -91.111001,41.239415,0.0 -90.946692,41.097014,0.0 -90.963123,40.921752,0.0 -91.09457,40.823167,0.0 -91.121954,40.669813,0.0 -91.401278,40.560274,0.0 -91.417709,40.379535,0.0 -91.527248,40.412397,0.0 -91.729895,40.615043,0.0 -91.833957,40.609566,0.0 -93.257961,40.582182,0.0 -94.632673,40.571228,0.0 -95.7664,40.587659,0.0 -95.881416,40.719105,0.0 -95.826646,40.976521,0.0 -95.925231,41.201076,0.0 -95.919754,41.453015,0.0 -96.095016,41.540646,0.0 -96.122401,41.67757,0.0 -96.062155,41.798063,0.0 -96.127878,41.973325,0.0 -96.264801,42.039048,0.0 -96.44554,42.488157,0.0 -96.631756,42.707235,0.0 -96.544125,42.855112,0.0 -96.511264,43.052282,0.0 -96.434587,43.123482,0.0 -96.560556,43.222067,0.0 -96.527695,43.397329,0.0 -96.582464,43.479483,0.0 -96.451017,43.501391,0.0 -91.368417,43.501391,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1345">
+            <Style id="1352">
+                <LineStyle id="1354">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1353">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Kansas</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Kansas</td></tr><tr><td><b>Density:</b></td><td>35.09</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Kansas: KS Department of Revenue Opinion O-2016-001 27-2630(A)(9) arising from S.B. 1189 (2014) prohibit 3rdParty</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1344">
+                <Polygon id="1346">
+                    <outerBoundaryIs>
+                        <LinearRing id="1350">
+                            <coordinates>-101.90605,40.001626,0.0 -95.306337,40.001626,0.0 -95.207752,39.908518,0.0 -94.884612,39.831841,0.0 -95.109167,39.541563,0.0 -94.983197,39.442978,0.0 -94.824366,39.20747,0.0 -94.610765,39.158177,0.0 -94.616242,37.000263,0.0 -100.087706,37.000263,0.0 -102.042974,36.994786,0.0 -102.053927,40.001626,0.0 -101.90605,40.001626,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1356">
+            <Style id="1363">
+                <LineStyle id="1365">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1364">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Kentucky</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Kentucky</td></tr><tr><td><b>Density:</b></td><td>110.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Kentucky: KRS 278.010 (3) Sales, but S.B. 1189 explicitly allows leasing of solar equipment</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1355">
+                <Polygon id="1357">
+                    <outerBoundaryIs>
+                        <LinearRing id="1361">
+                            <coordinates>-83.903347,38.769315,0.0 -83.678792,38.632391,0.0 -83.519961,38.703591,0.0 -83.142052,38.626914,0.0 -83.032514,38.725499,0.0 -82.890113,38.758361,0.0 -82.846298,38.588575,0.0 -82.731282,38.561191,0.0 -82.594358,38.424267,0.0 -82.621743,38.123036,0.0 -82.50125,37.931343,0.0 -82.342419,37.783465,0.0 -82.293127,37.668449,0.0 -82.101434,37.553434,0.0 -81.969987,37.537003,0.0 -82.353373,37.268633,0.0 -82.720328,37.120755,0.0 -82.720328,37.044078,0.0 -82.868205,36.978355,0.0 -82.879159,36.890724,0.0 -83.070852,36.852385,0.0 -83.136575,36.742847,0.0 -83.673316,36.600446,0.0 -83.689746,36.584015,0.0 -84.544149,36.594969,0.0 -85.289013,36.627831,0.0 -85.486183,36.616877,0.0 -86.592525,36.655216,0.0 -87.852221,36.633308,0.0 -88.071299,36.677123,0.0 -88.054868,36.496384,0.0 -89.298133,36.507338,0.0 -89.418626,36.496384,0.0 -89.363857,36.622354,0.0 -89.215979,36.578538,0.0 -89.133825,36.983832,0.0 -89.183118,37.038601,0.0 -89.029763,37.213863,0.0 -88.914747,37.224817,0.0 -88.547792,37.071463,0.0 -88.421823,37.153617,0.0 -88.514931,37.285064,0.0 -88.476592,37.389126,0.0 -88.065822,37.482234,0.0 -88.15893,37.657496,0.0 -88.027483,37.799896,0.0 -87.934375,37.893004,0.0 -87.682436,37.903958,0.0 -87.600282,37.975158,0.0 -87.512651,37.903958,0.0 -87.381204,37.93682,0.0 -87.129265,37.788942,0.0 -87.047111,37.893004,0.0 -86.795172,37.991589,0.0 -86.729448,37.893004,0.0 -86.504894,37.931343,0.0 -86.521325,38.040881,0.0 -86.302247,38.166851,0.0 -86.263908,38.051835,0.0 -86.039354,37.958727,0.0 -85.924338,38.024451,0.0 -85.83123,38.27639,0.0 -85.655968,38.325682,0.0 -85.590245,38.451652,0.0 -85.42046,38.533806,0.0 -85.431413,38.730976,0.0 -85.173997,38.68716,0.0 -84.987781,38.780268,0.0 -84.812519,38.785745,0.0 -84.894673,39.059592,0.0 -84.817996,39.103408,0.0 -84.43461,39.103408,0.0 -84.231963,38.895284,0.0 -84.215533,38.807653,0.0 -83.903347,38.769315,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1367">
+            <Style id="1374">
+                <LineStyle id="1376">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1375">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Louisiana</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Louisiana</td></tr><tr><td><b>Density:</b></td><td>105.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Louisiana: La. R.S. 45:121 ● Texas: Texas Utilities Code§39.916 (a)(2) (limited to systems generating electricity no more than the average annual electricity</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1366">
+                <Polygon id="1368">
+                    <outerBoundaryIs>
+                        <LinearRing id="1372">
+                            <coordinates>-93.608485,33.018527,0.0 -91.16577,33.002096,0.0 -91.072662,32.887081,0.0 -91.143862,32.843265,0.0 -91.154816,32.640618,0.0 -91.006939,32.514649,0.0 -90.985031,32.218894,0.0 -91.105524,31.988862,0.0 -91.341032,31.846462,0.0 -91.401278,31.621907,0.0 -91.499863,31.643815,0.0 -91.516294,31.27686,0.0 -91.636787,31.265906,0.0 -91.565587,31.068736,0.0 -91.636787,30.997536,0.0 -89.747242,30.997536,0.0 -89.845827,30.66892,0.0 -89.681519,30.449842,0.0 -89.643181,30.285534,0.0 -89.522688,30.181472,0.0 -89.818443,30.044549,0.0 -89.84035,29.945964,0.0 -89.599365,29.88024,0.0 -89.495303,30.039072,0.0 -89.287179,29.88024,0.0 -89.30361,29.754271,0.0 -89.424103,29.699501,0.0 -89.648657,29.748794,0.0 -89.621273,29.655686,0.0 -89.69795,29.513285,0.0 -89.506257,29.387316,0.0 -89.199548,29.348977,0.0 -89.09001,29.2011,0.0 -89.002379,29.179192,0.0 -89.16121,29.009407,0.0 -89.336472,29.042268,0.0 -89.484349,29.217531,0.0 -89.851304,29.310638,0.0 -89.851304,29.480424,0.0 -90.032043,29.425654,0.0 -90.021089,29.283254,0.0 -90.103244,29.151807,0.0 -90.23469,29.129899,0.0 -90.333275,29.277777,0.0 -90.563307,29.283254,0.0 -90.645461,29.129899,0.0 -90.798815,29.086084,0.0 -90.963123,29.179192,0.0 -91.09457,29.190146,0.0 -91.220539,29.436608,0.0 -91.445094,29.546147,0.0 -91.532725,29.529716,0.0 -91.620356,29.73784,0.0 -91.883249,29.710455,0.0 -91.888726,29.836425,0.0 -92.146142,29.715932,0.0 -92.113281,29.622824,0.0 -92.31045,29.535193,0.0 -92.617159,29.579009,0.0 -92.97316,29.715932,0.0 -93.2251,29.776178,0.0 -93.767317,29.726886,0.0 -93.838517,29.688547,0.0 -93.926148,29.787132,0.0 -93.690639,30.143133,0.0 -93.767317,30.334826,0.0 -93.696116,30.438888,0.0 -93.728978,30.575812,0.0 -93.630393,30.679874,0.0 -93.526331,30.93729,0.0 -93.542762,31.15089,0.0 -93.816609,31.556184,0.0 -93.822086,31.775262,0.0 -94.041164,31.994339,0.0 -94.041164,33.018527,0.0 -93.608485,33.018527,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1378">
+            <Style id="1385">
+                <LineStyle id="1387">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1386">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Maine</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Maine</td></tr><tr><td><b>Density:</b></td><td>43.04</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Maine: Title 35-A section 3202</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1377">
+                <Polygon id="1379">
+                    <outerBoundaryIs>
+                        <LinearRing id="1383">
+                            <coordinates>-70.703921,43.057759,0.0 -70.824413,43.128959,0.0 -70.807983,43.227544,0.0 -70.966814,43.34256,0.0 -71.032537,44.657025,0.0 -71.08183,45.303304,0.0 -70.649151,45.440228,0.0 -70.720352,45.511428,0.0 -70.556043,45.664782,0.0 -70.386258,45.735983,0.0 -70.41912,45.796229,0.0 -70.260289,45.889337,0.0 -70.309581,46.064599,0.0 -70.210996,46.327492,0.0 -70.057642,46.415123,0.0 -69.997395,46.694447,0.0 -69.225147,47.461219,0.0 -69.044408,47.428357,0.0 -69.033454,47.242141,0.0 -68.902007,47.176418,0.0 -68.578868,47.285957,0.0 -68.376221,47.285957,0.0 -68.233821,47.357157,0.0 -67.954497,47.198326,0.0 -67.790188,47.066879,0.0 -67.779235,45.944106,0.0 -67.801142,45.675736,0.0 -67.456095,45.604536,0.0 -67.505388,45.48952,0.0 -67.417757,45.379982,0.0 -67.488957,45.281397,0.0 -67.346556,45.128042,0.0 -67.16034,45.160904,0.0 -66.979601,44.804903,0.0 -67.187725,44.646072,0.0 -67.308218,44.706318,0.0 -67.406803,44.596779,0.0 -67.549203,44.624164,0.0 -67.565634,44.531056,0.0 -67.75185,44.54201,0.0 -68.047605,44.328409,0.0 -68.118805,44.476286,0.0 -68.222867,44.48724,0.0 -68.173574,44.328409,0.0 -68.403606,44.251732,0.0 -68.458375,44.377701,0.0 -68.567914,44.311978,0.0 -68.82533,44.311978,0.0 -68.830807,44.459856,0.0 -68.984161,44.426994,0.0 -68.956777,44.322932,0.0 -69.099177,44.103854,0.0 -69.071793,44.043608,0.0 -69.258008,43.923115,0.0 -69.444224,43.966931,0.0 -69.553763,43.840961,0.0 -69.707118,43.82453,0.0 -69.833087,43.720469,0.0 -69.986442,43.742376,0.0 -70.030257,43.851915,0.0 -70.254812,43.676653,0.0 -70.194565,43.567114,0.0 -70.358873,43.528776,0.0 -70.369827,43.435668,0.0 -70.556043,43.320652,0.0 -70.703921,43.057759,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1389">
+            <Style id="1396">
+                <LineStyle id="1398">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1397">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1405">
+                <LineStyle id="1407">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1406">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Maryland</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Maryland</td></tr><tr><td><b>Density:</b></td><td>596.3</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Maryland: Maryland Statute §7-306 consumption)</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1388">
+                <Polygon id="1390">
+                    <outerBoundaryIs>
+                        <LinearRing id="1394">
+                            <coordinates>-75.994645,37.95325,0.0 -76.016553,37.95325,0.0 -76.043938,37.95325,0.0 -75.994645,37.95325,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1399">
+                    <outerBoundaryIs>
+                        <LinearRing id="1403">
+                            <coordinates>-79.477979,39.722302,0.0 -75.786521,39.722302,0.0 -75.693413,38.462606,0.0 -75.047134,38.451652,0.0 -75.244304,38.029928,0.0 -75.397659,38.013497,0.0 -75.671506,37.95325,0.0 -75.885106,37.909435,0.0 -75.879629,38.073743,0.0 -75.961783,38.139466,0.0 -75.846768,38.210667,0.0 -76.000122,38.374975,0.0 -76.049415,38.303775,0.0 -76.257538,38.320205,0.0 -76.328738,38.500944,0.0 -76.263015,38.500944,0.0 -76.257538,38.736453,0.0 -76.191815,38.829561,0.0 -76.279446,39.147223,0.0 -76.169907,39.333439,0.0 -76.000122,39.366301,0.0 -75.972737,39.557994,0.0 -76.098707,39.536086,0.0 -76.104184,39.437501,0.0 -76.367077,39.311532,0.0 -76.443754,39.196516,0.0 -76.460185,38.906238,0.0 -76.55877,38.769315,0.0 -76.514954,38.539283,0.0 -76.383508,38.380452,0.0 -76.399939,38.259959,0.0 -76.317785,38.139466,0.0 -76.3616,38.057312,0.0 -76.591632,38.216144,0.0 -76.920248,38.292821,0.0 -77.018833,38.446175,0.0 -77.205049,38.358544,0.0 -77.276249,38.479037,0.0 -77.128372,38.632391,0.0 -77.040741,38.791222,0.0 -76.909294,38.895284,0.0 -77.035264,38.993869,0.0 -77.117418,38.933623,0.0 -77.248864,39.026731,0.0 -77.456988,39.076023,0.0 -77.456988,39.223901,0.0 -77.566527,39.306055,0.0 -77.719881,39.322485,0.0 -77.834897,39.601809,0.0 -78.004682,39.601809,0.0 -78.174467,39.694917,0.0 -78.267575,39.61824,0.0 -78.431884,39.623717,0.0 -78.470222,39.514178,0.0 -78.765977,39.585379,0.0 -78.963147,39.437501,0.0 -79.094593,39.470363,0.0 -79.291763,39.300578,0.0 -79.488933,39.20747,0.0 -79.477979,39.722302,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1409">
+            <Style id="1416">
+                <LineStyle id="1418">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1417">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Massachusetts</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Massachusetts</td></tr><tr><td><b>Density:</b></td><td>840.2</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Massachusetts: 220 CMR 18.00</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1408">
+                <Polygon id="1410">
+                    <outerBoundaryIs>
+                        <LinearRing id="1414">
+                            <coordinates>-70.917521,42.887974,0.0 -70.818936,42.871543,0.0 -70.780598,42.696281,0.0 -70.824413,42.55388,0.0 -70.983245,42.422434,0.0 -70.988722,42.269079,0.0 -70.769644,42.247172,0.0 -70.638197,42.08834,0.0 -70.660105,41.962371,0.0 -70.550566,41.929509,0.0 -70.539613,41.814493,0.0 -70.260289,41.715908,0.0 -69.937149,41.809016,0.0 -70.008349,41.672093,0.0 -70.484843,41.5516,0.0 -70.660105,41.546123,0.0 -70.764167,41.639231,0.0 -70.928475,41.611847,0.0 -70.933952,41.540646,0.0 -71.120168,41.496831,0.0 -71.196845,41.67757,0.0 -71.22423,41.710431,0.0 -71.328292,41.781632,0.0 -71.383061,42.01714,0.0 -71.530939,42.01714,0.0 -71.799309,42.006186,0.0 -71.799309,42.022617,0.0 -73.053528,42.039048,0.0 -73.486206,42.050002,0.0 -73.508114,42.08834,0.0 -73.267129,42.745573,0.0 -72.456542,42.729142,0.0 -71.29543,42.696281,0.0 -71.185891,42.789389,0.0 -70.917521,42.887974,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1420">
+            <Style id="1427">
+                <LineStyle id="1429">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1428">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1436">
+                <LineStyle id="1438">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1437">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1445">
+                <LineStyle id="1447">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1446">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1454">
+                <LineStyle id="1456">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1455">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Michigan</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Michigan</td></tr><tr><td><b>Density:</b></td><td>173.9</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Michigan: 2008 Public Act 286; PSC Order Docket U-15787 and communications</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1419">
+                <Polygon id="1421">
+                    <outerBoundaryIs>
+                        <LinearRing id="1425">
+                            <coordinates>-83.454238,41.732339,0.0 -84.807042,41.694001,0.0 -84.807042,41.759724,0.0 -85.990061,41.759724,0.0 -86.822556,41.759724,0.0 -86.619909,41.891171,0.0 -86.482986,42.115725,0.0 -86.357016,42.252649,0.0 -86.263908,42.444341,0.0 -86.209139,42.718189,0.0 -86.231047,43.013943,0.0 -86.526801,43.594499,0.0 -86.433693,43.813577,0.0 -86.499417,44.07647,0.0 -86.269385,44.34484,0.0 -86.220093,44.569394,0.0 -86.252954,44.689887,0.0 -86.088646,44.73918,0.0 -86.066738,44.903488,0.0 -85.809322,44.947303,0.0 -85.612152,45.128042,0.0 -85.628583,44.766564,0.0 -85.524521,44.750133,0.0 -85.393075,44.930872,0.0 -85.387598,45.237581,0.0 -85.305444,45.314258,0.0 -85.031597,45.363551,0.0 -85.119228,45.577151,0.0 -84.938489,45.75789,0.0 -84.713934,45.768844,0.0 -84.461995,45.653829,0.0 -84.215533,45.637398,0.0 -84.09504,45.494997,0.0 -83.908824,45.484043,0.0 -83.596638,45.352597,0.0 -83.4871,45.358074,0.0 -83.317314,45.144473,0.0 -83.454238,45.029457,0.0 -83.322791,44.88158,0.0 -83.273499,44.711795,0.0 -83.333745,44.339363,0.0 -83.536392,44.246255,0.0 -83.585684,44.054562,0.0 -83.82667,43.988839,0.0 -83.958116,43.758807,0.0 -83.908824,43.671176,0.0 -83.667839,43.589022,0.0 -83.481623,43.714992,0.0 -83.262545,43.972408,0.0 -82.917498,44.070993,0.0 -82.747713,43.994316,0.0 -82.643651,43.851915,0.0 -82.539589,43.435668,0.0 -82.523158,43.227544,0.0 -82.413619,42.975605,0.0 -82.517681,42.614127,0.0 -82.681989,42.559357,0.0 -82.687466,42.690804,0.0 -82.797005,42.652465,0.0 -82.922975,42.351234,0.0 -83.125621,42.236218,0.0 -83.185868,42.006186,0.0 -83.437807,41.814493,0.0 -83.454238,41.732339,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1430">
+                    <outerBoundaryIs>
+                        <LinearRing id="1434">
+                            <coordinates>-85.508091,45.730506,0.0 -85.49166,45.610013,0.0 -85.623106,45.588105,0.0 -85.568337,45.75789,0.0 -85.508091,45.730506,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1439">
+                    <outerBoundaryIs>
+                        <LinearRing id="1443">
+                            <coordinates>-87.589328,45.095181,0.0 -87.742682,45.199243,0.0 -87.649574,45.341643,0.0 -87.885083,45.363551,0.0 -87.791975,45.500474,0.0 -87.781021,45.675736,0.0 -87.989145,45.796229,0.0 -88.10416,45.922199,0.0 -88.531362,46.020784,0.0 -88.662808,45.987922,0.0 -89.09001,46.135799,0.0 -90.119674,46.338446,0.0 -90.229213,46.508231,0.0 -90.415429,46.568478,0.0 -90.026566,46.672539,0.0 -89.851304,46.793032,0.0 -89.413149,46.842325,0.0 -89.128348,46.990202,0.0 -88.996902,46.995679,0.0 -88.887363,47.099741,0.0 -88.575177,47.247618,0.0 -88.416346,47.373588,0.0 -88.180837,47.455742,0.0 -87.956283,47.384542,0.0 -88.350623,47.077833,0.0 -88.443731,46.973771,0.0 -88.438254,46.787555,0.0 -88.246561,46.929956,0.0 -87.901513,46.908048,0.0 -87.633143,46.809463,0.0 -87.392158,46.535616,0.0 -87.260711,46.486323,0.0 -87.008772,46.530139,0.0 -86.948526,46.469893,0.0 -86.696587,46.437031,0.0 -86.159846,46.667063,0.0 -85.880522,46.68897,0.0 -85.508091,46.678016,0.0 -85.256151,46.754694,0.0 -85.064458,46.760171,0.0 -85.02612,46.480847,0.0 -84.82895,46.442508,0.0 -84.63178,46.486323,0.0 -84.549626,46.4206,0.0 -84.418179,46.502754,0.0 -84.127902,46.530139,0.0 -84.122425,46.179615,0.0 -83.990978,46.031737,0.0 -83.793808,45.993399,0.0 -83.7719,46.091984,0.0 -83.580208,46.091984,0.0 -83.476146,45.987922,0.0 -83.563777,45.911245,0.0 -84.111471,45.976968,0.0 -84.374364,45.933153,0.0 -84.659165,46.053645,0.0 -84.741319,45.944106,0.0 -84.70298,45.850998,0.0 -84.82895,45.872906,0.0 -85.015166,46.00983,0.0 -85.338305,46.091984,0.0 -85.502614,46.097461,0.0 -85.661445,45.966014,0.0 -85.924338,45.933153,0.0 -86.209139,45.960537,0.0 -86.324155,45.905768,0.0 -86.351539,45.796229,0.0 -86.663725,45.703121,0.0 -86.647294,45.834568,0.0 -86.784218,45.861952,0.0 -86.838987,45.725029,0.0 -87.069019,45.719552,0.0 -87.17308,45.659305,0.0 -87.326435,45.423797,0.0 -87.611236,45.122565,0.0 -87.589328,45.095181,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1448">
+                    <outerBoundaryIs>
+                        <LinearRing id="1452">
+                            <coordinates>-88.805209,47.976051,0.0 -89.057148,47.850082,0.0 -89.188594,47.833651,0.0 -89.177641,47.937713,0.0 -88.547792,48.173221,0.0 -88.668285,48.008913,0.0 -88.805209,47.976051,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1458">
+            <Style id="1465">
+                <LineStyle id="1467">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1466">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Nevada</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Nevada</td></tr><tr><td><b>Density:</b></td><td>24.8</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>NV: With system size limitations</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1457">
+                <Polygon id="1459">
+                    <outerBoundaryIs>
+                        <LinearRing id="1463">
+                            <coordinates>-117.027882,42.000709,0.0 -114.04295,41.995232,0.0 -114.048427,37.000263,0.0 -114.048427,36.195153,0.0 -114.152489,36.025367,0.0 -114.251074,36.01989,0.0 -114.371566,36.140383,0.0 -114.738521,36.102045,0.0 -114.678275,35.516012,0.0 -114.596121,35.324319,0.0 -114.574213,35.138103,0.0 -114.634459,35.00118,0.0 -115.85034,35.970598,0.0 -116.540435,36.501861,0.0 -117.498899,37.21934,0.0 -118.71478,38.101128,0.0 -120.001861,38.999346,0.0 -119.996384,40.264519,0.0 -120.001861,41.995232,0.0 -118.698349,41.989755,0.0 -117.027882,42.000709,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1469">
+            <Style id="1476">
+                <LineStyle id="1478">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1477">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>New Jersey</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>New Jersey</td></tr><tr><td><b>Density:</b></td><td>1189.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>08R-424E (2009) (limited to systems generating no more than ● New Jersey: N.J. Stat. 48:3-51; N.J.A.C. §14:8-4.1 et seq.</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1468">
+                <Polygon id="1470">
+                    <outerBoundaryIs>
+                        <LinearRing id="1474">
+                            <coordinates>-74.236547,41.14083,0.0 -73.902454,40.998429,0.0 -74.022947,40.708151,0.0 -74.187255,40.642428,0.0 -74.274886,40.489074,0.0 -74.001039,40.412397,0.0 -73.979131,40.297381,0.0 -74.099624,39.760641,0.0 -74.411809,39.360824,0.0 -74.614456,39.245808,0.0 -74.795195,38.993869,0.0 -74.888303,39.158177,0.0 -75.178581,39.240331,0.0 -75.534582,39.459409,0.0 -75.55649,39.607286,0.0 -75.561967,39.629194,0.0 -75.507197,39.683964,0.0 -75.414089,39.804456,0.0 -75.145719,39.88661,0.0 -75.129289,39.963288,0.0 -74.82258,40.127596,0.0 -74.773287,40.215227,0.0 -75.058088,40.417874,0.0 -75.069042,40.543843,0.0 -75.195012,40.576705,0.0 -75.205966,40.691721,0.0 -75.052611,40.866983,0.0 -75.134765,40.971045,0.0 -74.882826,41.179168,0.0 -74.828057,41.288707,0.0 -74.69661,41.359907,0.0 -74.236547,41.14083,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1480">
+            <Style id="1487">
+                <LineStyle id="1489">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1488">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>New Mexico</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>New Mexico</td></tr><tr><td><b>Density:</b></td><td>17.16</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>120% of the average annual electricity consumption) ● New Mexico: NM Stat. §62-13-13.1</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1479">
+                <Polygon id="1481">
+                    <outerBoundaryIs>
+                        <LinearRing id="1485">
+                            <coordinates>-107.421329,37.000263,0.0 -106.868158,36.994786,0.0 -104.337812,36.994786,0.0 -103.001438,37.000263,0.0 -103.001438,36.501861,0.0 -103.039777,36.501861,0.0 -103.045254,34.01533,0.0 -103.067161,33.002096,0.0 -103.067161,31.999816,0.0 -106.616219,31.999816,0.0 -106.643603,31.901231,0.0 -106.528588,31.786216,0.0 -108.210008,31.786216,0.0 -108.210008,31.331629,0.0 -109.04798,31.331629,0.0 -109.042503,37.000263,0.0 -107.421329,37.000263,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1491">
+            <Style id="1498">
+                <LineStyle id="1500">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1499">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>North Carolina</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>North Carolina</td></tr><tr><td><b>Density:</b></td><td>198.2</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● D.C.: REIP Program; PSC Order 15837 (2010) ● North Carolina: General Statutes §62‐3(23) prohibits 3rdParty</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1490">
+                <Polygon id="1492">
+                    <outerBoundaryIs>
+                        <LinearRing id="1496">
+                            <coordinates>-80.978661,36.562108,0.0 -80.294043,36.545677,0.0 -79.510841,36.5402,0.0 -75.868676,36.551154,0.0 -75.75366,36.151337,0.0 -76.032984,36.189676,0.0 -76.071322,36.140383,0.0 -76.410893,36.080137,0.0 -76.460185,36.025367,0.0 -76.68474,36.008937,0.0 -76.673786,35.937736,0.0 -76.399939,35.987029,0.0 -76.3616,35.943213,0.0 -76.060368,35.992506,0.0 -75.961783,35.899398,0.0 -75.781044,35.937736,0.0 -75.715321,35.696751,0.0 -75.775568,35.581735,0.0 -75.89606,35.570781,0.0 -76.147999,35.324319,0.0 -76.482093,35.313365,0.0 -76.536862,35.14358,0.0 -76.394462,34.973795,0.0 -76.279446,34.940933,0.0 -76.493047,34.661609,0.0 -76.673786,34.694471,0.0 -76.991448,34.667086,0.0 -77.210526,34.60684,0.0 -77.555573,34.415147,0.0 -77.82942,34.163208,0.0 -77.971821,33.845545,0.0 -78.179944,33.916745,0.0 -78.541422,33.851022,0.0 -79.675149,34.80401,0.0 -80.797922,34.820441,0.0 -80.781491,34.935456,0.0 -80.934845,35.105241,0.0 -81.038907,35.044995,0.0 -81.044384,35.149057,0.0 -82.276696,35.198349,0.0 -82.550543,35.160011,0.0 -82.764143,35.066903,0.0 -83.109191,35.00118,0.0 -83.618546,34.984749,0.0 -84.319594,34.990226,0.0 -84.29221,35.225734,0.0 -84.09504,35.247642,0.0 -84.018363,35.41195,0.0 -83.7719,35.559827,0.0 -83.498053,35.565304,0.0 -83.251591,35.718659,0.0 -82.994175,35.773428,0.0 -82.775097,35.997983,0.0 -82.638174,36.063706,0.0 -82.610789,35.965121,0.0 -82.216449,36.156814,0.0 -82.03571,36.118475,0.0 -81.909741,36.304691,0.0 -81.723525,36.353984,0.0 -81.679709,36.589492,0.0 -80.978661,36.562108,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1502">
+            <Style id="1509">
+                <LineStyle id="1511">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1510">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Ohio</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Ohio</td></tr><tr><td><b>Density:</b></td><td>281.9</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>PSC declaratory rulings have permitted residential solar leasing ● Ohio: PUC Order 06-653-EL-ORD (11/05/2008)</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1501">
+                <Polygon id="1503">
+                    <outerBoundaryIs>
+                        <LinearRing id="1507">
+                            <coordinates>-80.518598,41.978802,0.0 -80.518598,40.636951,0.0 -80.666475,40.582182,0.0 -80.595275,40.472643,0.0 -80.600752,40.319289,0.0 -80.737675,40.078303,0.0 -80.830783,39.711348,0.0 -81.219646,39.388209,0.0 -81.345616,39.344393,0.0 -81.455155,39.410117,0.0 -81.57017,39.267716,0.0 -81.685186,39.273193,0.0 -81.811156,39.0815,0.0 -81.783771,38.966484,0.0 -81.887833,38.873376,0.0 -82.03571,39.026731,0.0 -82.221926,38.785745,0.0 -82.172634,38.632391,0.0 -82.293127,38.577622,0.0 -82.331465,38.446175,0.0 -82.594358,38.424267,0.0 -82.731282,38.561191,0.0 -82.846298,38.588575,0.0 -82.890113,38.758361,0.0 -83.032514,38.725499,0.0 -83.142052,38.626914,0.0 -83.519961,38.703591,0.0 -83.678792,38.632391,0.0 -83.903347,38.769315,0.0 -84.215533,38.807653,0.0 -84.231963,38.895284,0.0 -84.43461,39.103408,0.0 -84.817996,39.103408,0.0 -84.801565,40.500028,0.0 -84.807042,41.694001,0.0 -83.454238,41.732339,0.0 -83.065375,41.595416,0.0 -82.933929,41.513262,0.0 -82.835344,41.589939,0.0 -82.616266,41.431108,0.0 -82.479343,41.381815,0.0 -82.013803,41.513262,0.0 -81.739956,41.485877,0.0 -81.444201,41.672093,0.0 -81.011523,41.852832,0.0 -80.518598,41.978802,0.0 -80.518598,41.978802,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1513">
+            <Style id="1520">
+                <LineStyle id="1522">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1521">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Pennsylvania</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Pennsylvania</td></tr><tr><td><b>Density:</b></td><td>284.3</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>that a local solar company who proposed a 3rd-party PPA would be ● Rhode Island: R.I. Gen. Laws §39-26.4</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1512">
+                <Polygon id="1514">
+                    <outerBoundaryIs>
+                        <LinearRing id="1518">
+                            <coordinates>-79.76278,42.252649,0.0 -79.76278,42.000709,0.0 -75.35932,42.000709,0.0 -75.249781,41.863786,0.0 -75.173104,41.869263,0.0 -75.052611,41.754247,0.0 -75.074519,41.60637,0.0 -74.89378,41.436584,0.0 -74.740426,41.431108,0.0 -74.69661,41.359907,0.0 -74.828057,41.288707,0.0 -74.882826,41.179168,0.0 -75.134765,40.971045,0.0 -75.052611,40.866983,0.0 -75.205966,40.691721,0.0 -75.195012,40.576705,0.0 -75.069042,40.543843,0.0 -75.058088,40.417874,0.0 -74.773287,40.215227,0.0 -74.82258,40.127596,0.0 -75.129289,39.963288,0.0 -75.145719,39.88661,0.0 -75.414089,39.804456,0.0 -75.616736,39.831841,0.0 -75.786521,39.722302,0.0 -79.477979,39.722302,0.0 -80.518598,39.722302,0.0 -80.518598,40.636951,0.0 -80.518598,41.978802,0.0 -80.518598,41.978802,0.0 -80.332382,42.033571,0.0 -79.76278,42.269079,0.0 -79.76278,42.252649,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1524">
+            <Style id="1531">
+                <LineStyle id="1533">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1532">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Texas</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Texas</td></tr><tr><td><b>Density:</b></td><td>98.07</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>TX: With system size limitations At Least 29 States</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1523">
+                <Polygon id="1525">
+                    <outerBoundaryIs>
+                        <LinearRing id="1529">
+                            <coordinates>-101.812942,36.501861,0.0 -100.000075,36.501861,0.0 -100.000075,34.563024,0.0 -99.923398,34.573978,0.0 -99.698843,34.382285,0.0 -99.57835,34.415147,0.0 -99.260688,34.404193,0.0 -99.189488,34.2125,0.0 -98.986841,34.223454,0.0 -98.767763,34.135823,0.0 -98.570593,34.146777,0.0 -98.488439,34.064623,0.0 -98.36247,34.157731,0.0 -98.170777,34.113915,0.0 -98.088623,34.004376,0.0 -97.946222,33.987946,0.0 -97.869545,33.851022,0.0 -97.694283,33.982469,0.0 -97.458774,33.905791,0.0 -97.371143,33.823637,0.0 -97.256128,33.861976,0.0 -97.173974,33.736006,0.0 -96.922034,33.960561,0.0 -96.850834,33.845545,0.0 -96.631756,33.845545,0.0 -96.423633,33.774345,0.0 -96.346956,33.686714,0.0 -96.149786,33.840068,0.0 -95.936185,33.889361,0.0 -95.8376,33.834591,0.0 -95.602092,33.933176,0.0 -95.547322,33.878407,0.0 -95.289906,33.87293,0.0 -95.224183,33.960561,0.0 -94.966767,33.861976,0.0 -94.868182,33.74696,0.0 -94.484796,33.637421,0.0 -94.380734,33.544313,0.0 -94.183564,33.593606,0.0 -94.041164,33.54979,0.0 -94.041164,33.018527,0.0 -94.041164,31.994339,0.0 -93.822086,31.775262,0.0 -93.816609,31.556184,0.0 -93.542762,31.15089,0.0 -93.526331,30.93729,0.0 -93.630393,30.679874,0.0 -93.728978,30.575812,0.0 -93.696116,30.438888,0.0 -93.767317,30.334826,0.0 -93.690639,30.143133,0.0 -93.926148,29.787132,0.0 -93.838517,29.688547,0.0 -94.002825,29.68307,0.0 -94.523134,29.546147,0.0 -94.70935,29.622824,0.0 -94.742212,29.787132,0.0 -94.873659,29.672117,0.0 -94.966767,29.699501,0.0 -95.016059,29.557101,0.0 -94.911997,29.496854,0.0 -94.895566,29.310638,0.0 -95.081782,29.113469,0.0 -95.383014,28.867006,0.0 -95.985477,28.604113,0.0 -96.045724,28.647929,0.0 -96.226463,28.582205,0.0 -96.23194,28.642452,0.0 -96.478402,28.598636,0.0 -96.593418,28.724606,0.0 -96.664618,28.697221,0.0 -96.401725,28.439805,0.0 -96.593418,28.357651,0.0 -96.774157,28.406943,0.0 -96.801542,28.226204,0.0 -97.026096,28.039988,0.0 -97.256128,27.694941,0.0 -97.404005,27.333463,0.0 -97.513544,27.360848,0.0 -97.540929,27.229401,0.0 -97.425913,27.262263,0.0 -97.480682,26.99937,0.0 -97.557359,26.988416,0.0 -97.562836,26.840538,0.0 -97.469728,26.758384,0.0 -97.442344,26.457153,0.0 -97.332805,26.353091,0.0 -97.30542,26.161398,0.0 -97.217789,25.991613,0.0 -97.524498,25.887551,0.0 -97.650467,26.018997,0.0 -97.885976,26.06829,0.0 -98.198161,26.057336,0.0 -98.466531,26.221644,0.0 -98.669178,26.238075,0.0 -98.822533,26.369522,0.0 -99.030656,26.413337,0.0 -99.173057,26.539307,0.0 -99.266165,26.840538,0.0 -99.446904,27.021277,0.0 -99.424996,27.174632,0.0 -99.50715,27.33894,0.0 -99.479765,27.48134,0.0 -99.605735,27.640172,0.0 -99.709797,27.656603,0.0 -99.879582,27.799003,0.0 -99.934351,27.979742,0.0 -100.082229,28.14405,0.0 -100.29583,28.280974,0.0 -100.399891,28.582205,0.0 -100.498476,28.66436,0.0 -100.629923,28.905345,0.0 -100.673738,29.102515,0.0 -100.799708,29.244915,0.0 -101.013309,29.370885,0.0 -101.062601,29.458516,0.0 -101.259771,29.535193,0.0 -101.413125,29.754271,0.0 -101.851281,29.803563,0.0 -102.114174,29.792609,0.0 -102.338728,29.869286,0.0 -102.388021,29.765225,0.0 -102.629006,29.732363,0.0 -102.809745,29.524239,0.0 -102.919284,29.190146,0.0 -102.97953,29.184669,0.0 -103.116454,28.987499,0.0 -103.280762,28.982022,0.0 -103.527224,29.135376,0.0 -104.146119,29.381839,0.0 -104.266611,29.513285,0.0 -104.507597,29.639255,0.0 -104.677382,29.924056,0.0 -104.688336,30.181472,0.0 -104.858121,30.389596,0.0 -104.896459,30.570335,0.0 -105.005998,30.685351,0.0 -105.394861,30.855136,0.0 -105.602985,31.085167,0.0 -105.77277,31.167321,0.0 -105.953509,31.364491,0.0 -106.205448,31.468553,0.0 -106.38071,31.731446,0.0 -106.528588,31.786216,0.0 -106.643603,31.901231,0.0 -106.616219,31.999816,0.0 -103.067161,31.999816,0.0 -103.067161,33.002096,0.0 -103.045254,34.01533,0.0 -103.039777,36.501861,0.0 -103.001438,36.501861,0.0 -101.812942,36.501861,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1535">
+            <Style id="1542">
+                <LineStyle id="1544">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1543">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Utah</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Utah</td></tr><tr><td><b>Density:</b></td><td>34.3</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Utah: Title 54 Chapter 2 (1)(19)</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1534">
+                <Polygon id="1536">
+                    <outerBoundaryIs>
+                        <LinearRing id="1540">
+                            <coordinates>-112.164359,41.995232,0.0 -111.047063,42.000709,0.0 -111.047063,40.998429,0.0 -109.04798,40.998429,0.0 -109.053457,39.125316,0.0 -109.058934,38.27639,0.0 -109.042503,38.166851,0.0 -109.042503,37.000263,0.0 -110.499369,37.00574,0.0 -114.048427,37.000263,0.0 -114.04295,41.995232,0.0 -112.164359,41.995232,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1546">
+            <Style id="1553">
+                <LineStyle id="1555">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1554">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Vermont</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Vermont</td></tr><tr><td><b>Density:</b></td><td>67.73</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● Vermont: No policy reference available, based upon news reports</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1545">
+                <Polygon id="1547">
+                    <outerBoundaryIs>
+                        <LinearRing id="1551">
+                            <coordinates>-71.503554,45.013027,0.0 -71.4926,44.914442,0.0 -71.629524,44.750133,0.0 -71.536416,44.585825,0.0 -71.700724,44.41604,0.0 -72.034817,44.322932,0.0 -72.02934,44.07647,0.0 -72.116971,43.994316,0.0 -72.204602,43.769761,0.0 -72.379864,43.572591,0.0 -72.456542,43.150867,0.0 -72.445588,43.008466,0.0 -72.533219,42.953697,0.0 -72.544173,42.80582,0.0 -72.456542,42.729142,0.0 -73.267129,42.745573,0.0 -73.278083,42.833204,0.0 -73.245221,43.523299,0.0 -73.404052,43.687607,0.0 -73.349283,43.769761,0.0 -73.436914,44.043608,0.0 -73.321898,44.246255,0.0 -73.294514,44.437948,0.0 -73.387622,44.618687,0.0 -73.332852,44.804903,0.0 -73.343806,45.013027,0.0 -72.308664,45.002073,0.0 -71.503554,45.013027,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1557">
+            <Style id="1564">
+                <LineStyle id="1566">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1565">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1573">
+                <LineStyle id="1575">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1574">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1582">
+                <LineStyle id="1584">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1583">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Virginia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Virginia</td></tr><tr><td><b>Density:</b></td><td>204.5</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>● West Virginia: W.Va. Code §24-2-1</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1556">
+                <Polygon id="1558">
+                    <outerBoundaryIs>
+                        <LinearRing id="1562">
+                            <coordinates>-75.397659,38.013497,0.0 -75.244304,38.029928,0.0 -75.375751,37.860142,0.0 -75.512674,37.799896,0.0 -75.594828,37.569865,0.0 -75.802952,37.197433,0.0 -75.972737,37.120755,0.0 -76.027507,37.257679,0.0 -75.939876,37.564388,0.0 -75.671506,37.95325,0.0 -75.397659,38.013497,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1567">
+                    <outerBoundaryIs>
+                        <LinearRing id="1571">
+                            <coordinates>-76.016553,37.95325,0.0 -75.994645,37.95325,0.0 -76.043938,37.95325,0.0 -76.016553,37.95325,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1576">
+                    <outerBoundaryIs>
+                        <LinearRing id="1580">
+                            <coordinates>-78.349729,39.464886,0.0 -77.82942,39.130793,0.0 -77.719881,39.322485,0.0 -77.566527,39.306055,0.0 -77.456988,39.223901,0.0 -77.456988,39.076023,0.0 -77.248864,39.026731,0.0 -77.117418,38.933623,0.0 -77.040741,38.791222,0.0 -77.128372,38.632391,0.0 -77.248864,38.588575,0.0 -77.325542,38.446175,0.0 -77.281726,38.342113,0.0 -77.013356,38.374975,0.0 -76.964064,38.216144,0.0 -76.613539,38.15042,0.0 -76.514954,38.024451,0.0 -76.235631,37.887527,0.0 -76.3616,37.608203,0.0 -76.246584,37.389126,0.0 -76.383508,37.285064,0.0 -76.399939,37.159094,0.0 -76.273969,37.082417,0.0 -76.410893,36.961924,0.0 -76.619016,37.120755,0.0 -76.668309,37.065986,0.0 -76.48757,36.95097,0.0 -75.994645,36.923586,0.0 -75.868676,36.551154,0.0 -79.510841,36.5402,0.0 -80.294043,36.545677,0.0 -80.978661,36.562108,0.0 -81.679709,36.589492,0.0 -83.673316,36.600446,0.0 -83.136575,36.742847,0.0 -83.070852,36.852385,0.0 -82.879159,36.890724,0.0 -82.868205,36.978355,0.0 -82.720328,37.044078,0.0 -82.720328,37.120755,0.0 -82.353373,37.268633,0.0 -81.969987,37.537003,0.0 -81.986418,37.454849,0.0 -81.849494,37.285064,0.0 -81.679709,37.20291,0.0 -81.55374,37.208387,0.0 -81.362047,37.339833,0.0 -81.225123,37.235771,0.0 -80.967707,37.290541,0.0 -80.513121,37.482234,0.0 -80.474782,37.421987,0.0 -80.29952,37.509618,0.0 -80.294043,37.690357,0.0 -80.184505,37.849189,0.0 -79.998289,37.997066,0.0 -79.921611,38.177805,0.0 -79.724442,38.364021,0.0 -79.647764,38.594052,0.0 -79.477979,38.457129,0.0 -79.313671,38.413313,0.0 -79.209609,38.495467,0.0 -78.996008,38.851469,0.0 -78.870039,38.763838,0.0 -78.404499,39.169131,0.0 -78.349729,39.464886,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1586">
+            <Style id="1593">
+                <LineStyle id="1595">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1594">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1602">
+                <LineStyle id="1604">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1603">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="1611">
+                <LineStyle id="1613">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1612">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Washington</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Washington</td></tr><tr><td><b>Density:</b></td><td>102.6</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>U.S. Territories + Washington DC and</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1585">
+                <Polygon id="1587">
+                    <outerBoundaryIs>
+                        <LinearRing id="1591">
+                            <coordinates>-117.033359,49.000239,0.0 -117.044313,47.762451,0.0 -117.038836,46.426077,0.0 -117.055267,46.343923,0.0 -116.92382,46.168661,0.0 -116.918344,45.993399,0.0 -118.988627,45.998876,0.0 -119.125551,45.933153,0.0 -119.525367,45.911245,0.0 -119.963522,45.823614,0.0 -120.209985,45.725029,0.0 -120.505739,45.697644,0.0 -120.637186,45.746937,0.0 -121.18488,45.604536,0.0 -121.217742,45.670259,0.0 -121.535404,45.725029,0.0 -121.809251,45.708598,0.0 -122.247407,45.549767,0.0 -122.762239,45.659305,0.0 -122.811531,45.960537,0.0 -122.904639,46.08103,0.0 -123.11824,46.185092,0.0 -123.211348,46.174138,0.0 -123.370179,46.146753,0.0 -123.545441,46.261769,0.0 -123.72618,46.300108,0.0 -123.874058,46.239861,0.0 -124.065751,46.327492,0.0 -124.027412,46.464416,0.0 -123.895966,46.535616,0.0 -124.098612,46.74374,0.0 -124.235536,47.285957,0.0 -124.31769,47.357157,0.0 -124.427229,47.740543,0.0 -124.624399,47.88842,0.0 -124.706553,48.184175,0.0 -124.597014,48.381345,0.0 -124.394367,48.288237,0.0 -123.983597,48.162267,0.0 -123.704273,48.167744,0.0 -123.424949,48.118452,0.0 -123.162056,48.167744,0.0 -123.036086,48.080113,0.0 -122.800578,48.08559,0.0 -122.636269,47.866512,0.0 -122.515777,47.882943,0.0 -122.493869,47.587189,0.0 -122.422669,47.318818,0.0 -122.324084,47.346203,0.0 -122.422669,47.576235,0.0 -122.395284,47.800789,0.0 -122.230976,48.030821,0.0 -122.362422,48.123929,0.0 -122.373376,48.288237,0.0 -122.471961,48.468976,0.0 -122.422669,48.600422,0.0 -122.488392,48.753777,0.0 -122.647223,48.775685,0.0 -122.795101,48.8907,0.0 -122.756762,49.000239,0.0 -117.033359,49.000239,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1596">
+                    <outerBoundaryIs>
+                        <LinearRing id="1600">
+                            <coordinates>-122.718423,48.310145,0.0 -122.586977,48.35396,0.0 -122.608885,48.151313,0.0 -122.767716,48.227991,0.0 -122.718423,48.310145,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="1605">
+                    <outerBoundaryIs>
+                        <LinearRing id="1609">
+                            <coordinates>-123.025132,48.583992,0.0 -122.915593,48.715438,0.0 -122.767716,48.556607,0.0 -122.811531,48.419683,0.0 -123.041563,48.458022,0.0 -123.025132,48.583992,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+        <Placemark id="1615">
+            <Style id="1622">
+                <LineStyle id="1624">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1623">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Puerto Rico</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>Puerto Rico</td></tr><tr><td><b>Density:</b></td><td>1082.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>Puerto Rico Authorize or</td></tr><tr><td><b>Policy Type:</b></td><td>Third-Party Solar Power Purchase Agreement Policies</td></tr></table>]]></description>
+            <MultiGeometry id="1614">
+                <Polygon id="1616">
+                    <outerBoundaryIs>
+                        <LinearRing id="1620">
+                            <coordinates>-66.448338,17.984326,0.0 -66.771478,18.006234,0.0 -66.924832,17.929556,0.0 -66.985078,17.973372,0.0 -67.209633,17.956941,0.0 -67.154863,18.19245,0.0 -67.269879,18.362235,0.0 -67.094617,18.515589,0.0 -66.957694,18.488204,0.0 -66.409999,18.488204,0.0 -65.840398,18.433435,0.0 -65.632274,18.367712,0.0 -65.626797,18.203403,0.0 -65.730859,18.186973,0.0 -65.834921,18.017187,0.0 -66.234737,17.929556,0.0 -66.448338,17.984326,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

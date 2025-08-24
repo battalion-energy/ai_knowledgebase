@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1626">
+        <name>Passenger Electric Vehicle Incentives</name>
+        <description>States shown have the specified policy</description>
+        <Folder id="1627">
+            <name>States</name>
+        </Folder>
+        <Placemark id="1629">
+            <Style id="1636">
+                <LineStyle id="1638">
+                    <color>ff000000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+                <PolyStyle id="1637">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>District of Columbia</name>
+            <description><![CDATA[<table><tr><td><b>Name:</b></td><td>District of Columbia</td></tr><tr><td><b>Density:</b></td><td>10065.0</td></tr><tr><td><b>Has Policy:</b></td><td>Yes</td></tr><tr><td><b>Policy Details:</b></td><td>in 40 states + DC.</td></tr><tr><td><b>Policy Type:</b></td><td>Passenger Electric Vehicle Incentives</td></tr></table>]]></description>
+            <MultiGeometry id="1628">
+                <Polygon id="1630">
+                    <outerBoundaryIs>
+                        <LinearRing id="1634">
+                            <coordinates>-77.035264,38.993869,0.0 -76.909294,38.895284,0.0 -77.040741,38.791222,0.0 -77.117418,38.933623,0.0 -77.035264,38.993869,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

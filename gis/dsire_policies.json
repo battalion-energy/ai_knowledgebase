@@ -1,0 +1,652 @@
+{
+  "California": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf California: CA Code of Regulations Title 14 Section 3100 et \u25cf North Carolina: NC General Statutes Chapter 130A, Article 9, seq. Section 309.240"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "Resources Code \u00a725310, CA Public Utilities Code Section \u00a7"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "CA:"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf California: Cal. Pub. Util. Code \u00a7218, \u00a72868 \u25cf New Hampshire:PUC 902.03; PUC Docket DE 10-212 (letter 1/31/12)"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "CA:60% 2025*\u2020"
+    }
+  },
+  "Connecticut": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Connecticut: General Statutes of CT: 16-50k \u25cf North Dakota: ND Administrative Code Chapter 69-09-10"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Connecticut: Conn. Gen. Stat. \u00a716-245a et seq., S.B. 1243"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "CT: 1,000 MW x 2030"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "CT: 2,000 MW x 2030"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Connecticut: Connecticut Green Bank \u25cf New York: NY CLS Public Service \u00a72.13"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "CT: 40% x2030; (100% x"
+    }
+  },
+  "Georgia": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Georgia: Code of GA Section 46-3-67 et seq. \u25cf Ohio: OH Revised Code, Title 49, Chapter 4906, Section"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Georgia: H.B. 57 (2015) \u25cf Oklahoma: Attorney General Opinion 2018-5"
+    }
+  },
+  "Hawaii": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Hawaii: HI Revised Statutes Section 205-4.5 4906.21"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Hawaii: HRS \u00a7269-96 et seq., HI PUC Order, Docket2010-"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Hawaii: S.B. 704 (2011) \u25cf Oregon: PUC Order No. 08-388; O.R.S \u00a7757.005"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "HI: 100% x 2045 a Clean Energy Standard"
+    }
+  },
+  "Illinois": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Illinois: 505 IL Compiled Statutes 147/ et seq. & 55 IL \u25cf Oklahoma: OK Statute Title 60 Section 820.1"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "5/8-104, \u00a730 ILCS 105/6z-96 39-2-1.2, several RIPUC orders"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Illinois: 220 ILCS 5/3-105, 16-102; 83 Ill. Adm. Code, Part 465 \u25cf Pennsylvania: PUC Order, Docket M-2011-2249441"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "2030 IA: 105 MW IL: 50% IN: OH: 8.5% 2040)"
+    }
+  },
+  "Oregon": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "CompiledStatutes5/5-12020 \u25cf Oregon: OR Revised Statutes 195.300 & 215.446"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Oregon:S.B. 1157 (2016), several OPUC orders"
+    }
+  },
+  "Indiana": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Indiana: IN Code Title8, Article 1, Chapter42, Section 18 \u25cf Rhode Island: RI General Laws \u00a7 42-98-3 & \u00a7 42-98-8"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Indiana:IURC Cause No. 42693 (**later eliminated by SB 340 \u25cf Texas: Texas Utilities Code \u00a739.905, TX PUC Substantive (2014)) Rule \u00a725.181"
+    }
+  },
+  "Kentucky": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Kentucky: KY Revised Statutes, Chapter 278, Sec. 704 (Statewide); RI General Laws \u00a7 39-33-1 et seq. (Hybrid)"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Kentucky: KRS 278.010 (3) Sales, but S.B. 1189 explicitly allows leasing of solar equipment"
+    }
+  },
+  "Louisiana": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Louisiana: LA Revised Statutes 30:1154 \u25cf South Carolina: SC Code of Regulations 61-107.20"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Louisiana: La. R.S. 45:121 \u25cf Texas: Texas Utilities Code\u00a739.916 (a)(2) (limited to systems generating electricity no more than the average annual electricity"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "LA:"
+    }
+  },
+  "Maine": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Maine: ME Revised Statutes 35-A \u00a7\u00a7 3491 \u2013 3496 \u25cf South Dakota: SD Administrative Rules 20:10:22:33"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Maine: 35-A MRSA \u00a710104 et seq., MPUC Order in Docket \u25cf Washington: RCW 19.285, WAC 480-109, WAC 194-37"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "ME: 400 MW x 2030"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "ME: 3,000 MW x 2040"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Maine: Title 35-A section 3202"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "ME: 100% x2050"
+    }
+  },
+  "Maryland": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Maryland: Code of MD Regulations Chapter 27.01.14 \u25cf Tennessee: TN Code \u00a7 66-9-207"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Maryland: Md. Public Utility Companies Code \u00a77-211 A Note Regarding DSIRE\u2019s Definition of An Energy Efficiency Resource Standard The DSIRE glossary provides the following definition of an \u201cenergy efficiency resource standard\u201d: \u201cEnergy efficiency resource standards (EERS) are state policies that require utilities to meet specific targets for energy savings according to a set schedule. EERS policies establish separate reduction targets for electricity sales, peak electric demand and/or natural g"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "2020 MD: 3,000 MW 2030 x 2033"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "MD: 1,200 MW x 2030 8,500 MW x 2031 goal"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Maryland: Maryland Statute \u00a77-306 consumption)"
+    }
+  },
+  "Massachusetts": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Massachusetts: MA Model Zoning Bylaw for the Regulation of \u25cf Texas: TX Utilities Code Title 6, Chapter 302"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Massachusetts: M.G.L. ch.25, \u00a721, DPU orders \u25cf D.C. : Clean and Affordable Energy Act of 2008"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "OR: 10 MWh x 2030 MA: 1,000 x 2020 MWh x 2025"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "NY: 9,000 MW x 2035 MA: 5,600 MW x 2027"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Massachusetts: 220 CMR 18.00"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "OR: 50%x 2040* x 2035 MA: 40% x 2030 + 1% each 2030*\u2020 (100% (large utilities) (IOUs) year thereafter (new resources) x 2050)"
+    }
+  },
+  "Vermont": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "Solar Energy Systems \u25cf Vermont: 30 VT Statutes Annotated. \u00a7 248 & VT Public Utility"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Vermont: No policy reference available, based upon news reports"
+    }
+  },
+  "Michigan": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Michigan: Michigan Compiled Laws Sections 324.36104e & Commission Rules 5.100 and 5.900"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "PR Guam USVI NMI"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "MI: 2,500MW"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Michigan: 2008 Public Act 286; PSC Order Docket U-15787 and communications"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "NMI: 20% x 2016 Guam: 100% x 2045 (7 states have renewable"
+    }
+  },
+  "Virginia": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "460.1221 et seq. \u25cf Virginia: Code of VA, Title 15.2, Chapter 22, Article 6, Section"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "Utilities Board orders \u25cf Virginia: Va. Code Ann. \u00a756-596.2"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "VA: 3,100 MW x 2035 Energy Storage Target Adopted Twelve states have statewide targets for energy storage deployment."
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "VA: 5,200 MW x 2032"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf West Virginia: W.Va. Code \u00a724-2-1"
+    }
+  },
+  "Minnesota": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Minnesota: MN Administrative Rules 7854.0500 and MN 2241.2"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "ongoingDocketNo. RU-00000A-18-0284 \u25cf Minnesota: Minn. Stat. \u00a7216B.241"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "ND: 10% x 2015 MN: 55% VT: 100% x2030"
+    }
+  },
+  "Washington": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "Statutes 216E.01 - 216E.02 \u25cf Washington: WAAdministrative Code Chapter 463-28, WA"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "U.S. Territories + Washington DC and"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "WA: 15% x 2020*"
+    }
+  },
+  "Montana": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Montana: Administrative Rules of MT 17.86.1 Administrative Code 463-72"
+    }
+  },
+  "Nebraska": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf Nebraska: NE Revised Statute 66-911.01 \u25cf West Virginia: WV Code Sec. 60-11-1 et seq."
+    },
+    "Electric Vehicle Charging Equipment Incentives": {
+      "policy_type": "Electric Vehicle Charging Equipment Incentives",
+      "policy_details": "state NEVI programs"
+    }
+  },
+  "New Hampshire": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf New Hampshire: NJ Revised Statutes Section 162-H:7 & NH \u25cf Wyoming: WY Statutes Annotated 18-5-501, 18-5-503, 35-12- Site Evaluation Committee Site 301.08 102, 35-12-105"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf New Hampshire:NH PUC Order, Docket 15-137; RSA 374- 739.10, several CPUC Decisionsincluding 19-08-034"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "NH: 25.2% x 2025 (100% x 2045)"
+    }
+  },
+  "New Jersey": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf New Jersey: NJ Administrative Code \u00a7 2:76-2A.12"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf New Jersey: N.J. Rev. Stat. \u00a748:3-87.9 (Public Act 11-80), S.B. 1138 (Public Act No. 13-303), S.B."
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "NJ: 11,000 MW x 2040 goal"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "08R-424E (2009) (limited to systems generating no more than \u25cf New Jersey: N.J. Stat. 48:3-51; N.J.A.C. \u00a714:8-4.1 et seq."
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "(100% x 2050) x 2040 10% x x 2026 NJ: 50% x 2030; (100% x"
+    }
+  },
+  "New York": {
+    "Solar Decommissioning Policies": {
+      "policy_type": "Solar Decommissioning Policies",
+      "policy_details": "\u25cf New York: Chapter XVIII, Title 19 of NYCRR \u00a7900-1.2, \u00a7900- 2.24, \u00a7900-10.2 For more details download the 50 States of Solar Decommissioning Snapshot"
+    },
+    "Net Metering Policies": {
+      "policy_type": "Net Metering Policies",
+      "policy_details": "NY: Other DG compensation rules are for large customer-generators"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf New York: Several NY PSC orders 6360 (Public Act No. 13-298)"
+    },
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "NY: 6,000 MW 2033"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "(100% x 2040) (100% x WI: 10% 2015 NY:70% x 2030 (100% x 2050)"
+    }
+  },
+  "District of Columbia": {
+    "Net Metering Policies": {
+      "policy_type": "Net Metering Policies",
+      "policy_details": "State-developed mandatory rules for certain utilities (34 states + DC+ 3 territories) U.S. Territories: In transition to statewide distributed generation compensation rules other than net metering (0 states)"
+    },
+    "Solar Access and Easement Laws": {
+      "policy_type": "Solar Access and Easement Laws",
+      "policy_details": "states + DC. No Solar Easement or Access Laws"
+    },
+    "Electric Vehicle Charging Equipment Incentives": {
+      "policy_type": "Electric Vehicle Charging Equipment Incentives",
+      "policy_details": "*Does not include available in 46 states + DC."
+    },
+    "Energy Storage Financial Incentives": {
+      "policy_type": "Energy Storage Financial Incentives",
+      "policy_details": "22 states plus DC, PR, and VI have statewide incentives for energy storage. An additional 6 have utilities offering direct incentives. KEY State Property or Sales Tax Incentive U.S. Territories: State Grant, Rebate, or Performance-Based Incentive Program"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "DC 25 States have mandatory statewide Energy Efficiency Resource Standards (5 States and D.C. have U.S. Territories Goals)"
+    },
+    "Passenger Electric Vehicle Incentives": {
+      "policy_type": "Passenger Electric Vehicle Incentives",
+      "policy_details": "in 40 states + DC."
+    },
+    "Community Solar Rules": {
+      "policy_type": "Community Solar Rules",
+      "policy_details": "25 States + DC currently have adopted community * solar rules 2 states have rules providing utilities the option to create community solar programs KEY Community solar policy adopted U.S. Territories: Policy adopted providing community solar option * New Orleans local policy also establishes a"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "DC"
+    },
+    "Distributed Generation Customer Credit Rates": {
+      "policy_type": "Distributed Generation Customer Credit Rates",
+      "policy_details": "DC * * # * *"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "(100% x 28 States + DC have a 2050) Renewable Portfolio Standard, 11 states have U.S. Territories"
+    }
+  },
+  "Puerto Rico": {
+    "Net Metering Policies": {
+      "policy_type": "Net Metering Policies",
+      "policy_details": "VI PR GU Statewide distributed generation compensation rules other than net metering (14 states) No statewide mandatory rules, but some utilities allow net metering (2 states)"
+    },
+    "Energy Storage Financial Incentives": {
+      "policy_type": "Energy Storage Financial Incentives",
+      "policy_details": "AS PR Utility Rebate Program(s)"
+    },
+    "Community Solar Rules": {
+      "policy_type": "Community Solar Rules",
+      "policy_details": "AS PR community solar program No policy"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "Puerto Rico Authorize or"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "PR: 100% x 2050 USVI: 60% x 2025 portfolio goals, 7 states have clean energy goals) Renewable portfolio standard Clean energy standard * Extra credit for solar or customer-sited renewables Renewable portfolio goal Clean energy goal \u2020 Includes non-renewable alternative resources"
+    }
+  },
+  "Virgin Islands": {
+    "Energy Storage Financial Incentives": {
+      "policy_type": "Energy Storage Financial Incentives",
+      "policy_details": "VI GU Multiple Statewide Programs and/or Utility Rebate Programs"
+    },
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "F:3, VI"
+    },
+    "Community Solar Rules": {
+      "policy_type": "Community Solar Rules",
+      "policy_details": "VI GU"
+    }
+  },
+  "Florida": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Florida: Fla. Stat. \u00a7366.82; Fla. Stat. \u00a7403.519; Order No. (2019))"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Florida: PSC Decision: Docket 860725-EU; Order 17009 (1987);"
+    }
+  },
+  "Arizona": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Arizona: AAC R14-2-2401, et seq., AAC R14-2-2501, et seq., \u25cf Michigan: MCL \u00a7460.1071 et seq, several PSC orders"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Arizona: ACC Decision 71795, Docket E-20690A-09-0346 (limited regulations stipulated in MS code \u00a777-3-3, but MS net metering to schools, governments or other non-profit entities) rules explicitly allow leasing of solar equipment"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "AZ: 15% x NM: 80%x 2040 OK:15% x MD: 50% x 2030;"
+    }
+  },
+  "Arkansas": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Arkansas: AR PSC Orders in Dockets No. 08-144-U, 08-137- \u25cf Missouri: R.S. Mo. \u00a7393.1075, 4 CSR 240-20.094, several"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Arkansas: S.B. 145 (2019) (limited to Solar Services Agreements \u25cf Nevada: NRS 704.021 (A.B. 186, 2009); PUC Orders 07-06024 qualifying for safe harbor protection under 26 U.S.C. 7701(e)(3)(A) and 07-06027 (limited to systems generating no more than 150% for tax-exempt entities) and explicitly allows solar leasing. of the average annual electricity consumption)"
+    }
+  },
+  "South Carolina": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "No. 2013-00168 \u25cf Wisconsin: Wis. Stat. \u00a7196.374, several PSC orders"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "2025* (IOUs) 2015 SC:2% 2021 (100% x 2045)"
+    }
+  },
+  "Colorado": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Colorado: CRS 40-3.2-101, et seq., COPUC Decisions"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Colorado: S.B. 09-051; PUC Decision C09-0990, Docket No."
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "CO: 30% by 2020 (100% x 2025\u2020 2035)"
+    }
+  },
+  "New Mexico": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf New Mexico: N.M. Stat. \u00a762-17-1 et seq., severalPRC orders"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "120% of the average annual electricity consumption) \u25cf New Mexico: NM Stat. \u00a762-13-13.1"
+    }
+  },
+  "North Carolina": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf North Carolina: N.C. Gen. Stat. \u00a762-133.8"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "NC: 8,000 MW x 2040 goal Offshore Wind Energy Target Adopted Seven states have statewide Offshore Wind Energy Goal Adopted targets for offshore wind energy deployment, two states have goals."
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf D.C.: REIP Program; PSC Order 15837 (2010) \u25cf North Carolina: General Statutes \u00a762\u20103(23) prohibits 3rdParty"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "NC: 12.5% x 2021 \u2020 (100% x 2045) (100% x 2050)* (IOUs) (100% x 2050)"
+    }
+  },
+  "Delaware": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Delaware:26 Del. C. \u00a71500 et seq., 29 Del. C. \u00a78059"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Delaware: Del. Code Title 26, Chapter 10, 1014 (d) Sales, but H.B. 589 (2017) explicitly allows leasing of solar equipment"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "x 2030 2021 DE: 40% x 2035;"
+    }
+  },
+  "Ohio": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Ohio: ORC 4928.66 et seq. (**later eliminated by H.B. 6"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "PSC declaratory rulings have permitted residential solar leasing \u25cf Ohio: PUC Order 06-653-EL-ORD (11/05/2008)"
+    }
+  },
+  "Pennsylvania": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "0037 \u25cf Pennsylvania: 66 Pa C.S. \u00a72806.1, several PUC orders"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "that a local solar company who proposed a 3rd-party PPA would be \u25cf Rhode Island: R.I. Gen. Laws \u00a739-26.4"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "DC PA: 18% x2021\u2020"
+    }
+  },
+  "Iowa": {
+    "Energy Efficiency Resource Standards": {
+      "policy_type": "Energy Efficiency Resource Standards",
+      "policy_details": "\u25cf Iowa: Iowa Code \u00a7476.6.16, IAC 199-35, IAC 199-36, Iowa \u25cf Vermont: 30 V.S.A. \u00a7209"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "a \u201cpublic utility\u201d under Iowa law) \u25cf South Carolina: SC Code Section 58-27-2610(E) and Section 58-"
+    }
+  },
+  "Rhode Island": {
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "RI: 600 MW x x 2029"
+    },
+    "Offshore Wind Energy Targets": {
+      "policy_type": "Offshore Wind Energy Targets",
+      "policy_details": "RI: 600 -1,000 MW x 2022"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "RI: 100% x2033 2050)"
+    }
+  },
+  "Nevada": {
+    "Energy Storage Targets": {
+      "policy_type": "Energy Storage Targets",
+      "policy_details": "NV: NJ: 2,000 MW 1,325 1,000 x 2030 MW x MW x"
+    },
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "NV: With system size limitations"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "NV: 50% x"
+    }
+  },
+  "Texas": {
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "TX: With system size limitations At Least 29 States"
+    },
+    "Distributed Generation Customer Credit Rates": {
+      "policy_type": "Distributed Generation Customer Credit Rates",
+      "policy_details": "Note: TX does not have statewide net metering rules, and not all utilities offer Retail Rate retail rate crediting. TOU Retail Rate * Additional Fees for Small DG Customers are Applicable, at Least for Certain IOUs or Customers Between Retail Rate and Avoided Cost/Wholesale Rate # Avoided Cost or Wholesale Rate In transition to a lower credit rate"
+    }
+  },
+  "Alabama": {
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Alabama: AL code \u00a7 37-14-32 \u25cf Mississippi:Any entity selling electricity is subject to public utility"
+    }
+  },
+  "Kansas": {
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Kansas: KS Department of Revenue Opinion O-2016-001 27-2630(A)(9) arising from S.B. 1189 (2014) prohibit 3rdParty"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "(10 ( 0 IO % U x s ) 2 * 0 \u2020 50) KS: 20% x 2020 MO:15% x 2 050) V 2 A 0 : 4 5 1 / 0 2 0 0 % 50 x"
+    }
+  },
+  "Utah": {
+    "Third-Party Solar Power Purchase Agreement Policies": {
+      "policy_type": "Third-Party Solar Power Purchase Agreement Policies",
+      "policy_details": "\u25cf Utah: Title 54 Chapter 2 (1)(19)"
+    },
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "UT:20% x"
+    }
+  },
+  "South Dakota": {
+    "Renewable Portfolio Standards and Clean Energy Standards": {
+      "policy_type": "Renewable Portfolio Standards and Clean Energy Standards",
+      "policy_details": "SD: 10% x 2015 2040) (100% x (100% x 2040)"
+    }
+  }
+}
