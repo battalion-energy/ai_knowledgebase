@@ -50,13 +50,18 @@ coverage.xml
 .pytest_cache/
 
 # Virtual environments
-.env
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.*.local
 
 # IDEs
 .vscode/
@@ -74,3 +79,15 @@ Thumbs.db
 *.sqlite
 *.db
 test_direct_chroma/
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+.turbo/
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# pnpm
+pnpm-lock.yaml

@@ -12,7 +12,7 @@ const nextConfig = {
     return [
       {
         source: '/api/search/:path*',
-        destination: 'http://localhost:8000/:path*',
+        destination: `${process.env.SEARCH_API_URL || 'http://localhost:8000'}/:path*`,
       },
     ]
   },
