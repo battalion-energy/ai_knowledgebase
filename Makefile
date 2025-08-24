@@ -71,28 +71,49 @@ clean-all: clean db-drop ## Clean everything including database
 # Database Management
 # ========================================
 
-.PHONY: db-create
-db-create: ## Create database if it doesn't exist
-	@echo -e "${BLUE}Creating database $(POSTGRES_DB)...${NC}"
-	@psql -h $(POSTGRES_HOST) -p $(POSTGRES_PORT) -U $(POSTGRES_USER) -tc "SELECT 1 FROM pg_database WHERE datname = '$(POSTGRES_DB)'" | grep -q 1 || \
-		psql -h $(POSTGRES_HOST) -p $(POSTGRES_PORT) -U $(POSTGRES_USER) -c "CREATE DATABASE $(POSTGRES_DB);"
-	@echo -e "${GREEN}✓ Database $(POSTGRES_DB) ready${NC}"
-
-.PHONY: db-drop
-db-drop: ## Drop the database
-	@echo -e "${RED}Dropping database $(POSTGRES_DB)...${NC}"
-	@psql -h $(POSTGRES_HOST) -p $(POSTGRES_PORT) -U $(POSTGRES_USER) -c "DROP DATABASE IF EXISTS $(POSTGRES_DB);"
-	@echo -e "${GREEN}✓ Database dropped${NC}"
+.PHONY: db-create-user
+db-create-user: ## Create PostgreSQL user and database from .env configuration
+	@echo -e "${BLUE}Setting up PostgreSQL user and database...${NC}"
+	@chmod +x scripts/setup-postgres.sh
+	@bash scripts/setup-postgres.sh
+	@echo -e "${GREEN}✓ PostgreSQL setup complete${NC}"
 
 .PHONY: db-setup
-db-setup: db-create ## Setup database (create + migrate)
+db-setup: ## Complete database setup (create user, database, and run migrations)
+	@echo -e "${BLUE}Complete database setup...${NC}"
+	@$(MAKE) db-create-user
+	@$(MAKE) db-migrate
+	@echo -e "${GREEN}✓ Database fully configured and ready!${NC}"
+
+.PHONY: db-setup-only
+db-setup-only: ## Only create database structure (assumes user exists)
 	@echo -e "${BLUE}Running database migrations...${NC}"
+	@cd apps/web && cp ../../.env.local .env 2>/dev/null || true
 	cd apps/web && pnpm prisma migrate dev --name init
-	@echo -e "${GREEN}✓ Database setup complete${NC}"
+	@echo -e "${GREEN}✓ Database structure created${NC}"
+
+.PHONY: db-drop
+db-drop: ## Drop the database (requires sudo)
+	@echo -e "${RED}Dropping database...${NC}"
+	@echo -e "${YELLOW}This will delete all data! Press Ctrl+C to cancel.${NC}"
+	@sleep 3
+	@source .env.local && sudo -u postgres psql -c "DROP DATABASE IF EXISTS $$DB_NAME;"
+	@echo -e "${GREEN}✓ Database dropped${NC}"
+
+.PHONY: db-reset-hard
+db-reset-hard: ## Complete reset: drop user, database, and recreate everything
+	@echo -e "${RED}Complete database reset...${NC}"
+	@echo -e "${YELLOW}This will delete EVERYTHING! Press Ctrl+C to cancel.${NC}"
+	@sleep 5
+	@source .env.local && sudo -u postgres psql -c "DROP DATABASE IF EXISTS $$DB_NAME;" || true
+	@source .env.local && sudo -u postgres psql -c "DROP USER IF EXISTS $$DB_USER;" || true
+	@$(MAKE) db-setup
+	@echo -e "${GREEN}✓ Complete reset done${NC}"
 
 .PHONY: db-migrate
 db-migrate: ## Run database migrations
 	@echo -e "${BLUE}Running migrations...${NC}"
+	@cd apps/web && cp ../../.env.local .env 2>/dev/null || true
 	cd apps/web && pnpm prisma migrate dev
 	@echo -e "${GREEN}✓ Migrations complete${NC}"
 
