@@ -1,0 +1,50 @@
+{
+  "name": "ai-knowledge-base",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Knowledge Base Platform - ERCOT Document Search and Analysis",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.11.0",
+  "scripts": {
+    "predev": "pkill -f 'next dev' || true && pkill -f 'uvicorn' || true",
+    "dev": "pnpm run predev && pnpm -r --parallel run dev",
+    "dev:web": "pnpm --filter @ai-kb/web run dev",
+    "dev:api": "cd apps/search-api && uv run uvicorn main:app --reload --port 8000",
+    "build": "pnpm -r run build",
+    "build:full": "pnpm clean && pnpm install && pnpm db:generate && pnpm build",
+    "test": "pnpm -r run test",
+    "test:e2e": "playwright test",
+    "lint": "pnpm -r run lint",
+    "type-check": "pnpm -r run type-check",
+    "clean": "pnpm -r run clean && rm -rf node_modules",
+    "prepare": "husky install",
+    "db:generate": "pnpm --filter @ai-kb/web run db:generate",
+    "db:migrate": "pnpm --filter @ai-kb/web run db:migrate",
+    "db:push": "pnpm --filter @ai-kb/web run db:push",
+    "postinstall": "pnpm db:generate",
+    "index:update": "cd apps/search-api && uv run python -m scripts.update_index",
+    "index:full": "cd energy-data-search && python -m query.search_engine --index-all"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.14.0",
+    "@typescript-eslint/parser": "^6.14.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": ["eslint --fix", "prettier --write"],
+    "*.{json,md,yml,yaml}": ["prettier --write"]
+  }
+}
