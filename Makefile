@@ -41,7 +41,11 @@ install: ## Install all dependencies (Node.js and Python)
 	@echo -e "${BLUE}Installing Node.js dependencies...${NC}"
 	pnpm install
 	@echo -e "${BLUE}Installing Python dependencies...${NC}"
-	cd apps/search-api && uv pip install -r requirements.txt
+	@if command -v uv >/dev/null 2>&1; then \
+		cd apps/search-api && uv pip install -r requirements.txt; \
+	else \
+		cd apps/search-api && pip install -r requirements.txt; \
+	fi
 	@echo -e "${GREEN}✓ All dependencies installed${NC}"
 
 .PHONY: setup
@@ -132,7 +136,11 @@ dev-web: ## Start Next.js development server
 .PHONY: dev-api
 dev-api: ## Start Python search API
 	@echo -e "${BLUE}Starting Python API on port $(PYTHON_API_PORT)...${NC}"
-	cd apps/search-api && uv run uvicorn main:app --reload --port $(PYTHON_API_PORT)
+	@if command -v uv >/dev/null 2>&1; then \
+		cd apps/search-api && uv run uvicorn main:app --reload --port $(PYTHON_API_PORT); \
+	else \
+		cd apps/search-api && python -m uvicorn main:app --reload --port $(PYTHON_API_PORT); \
+	fi
 
 .PHONY: dev-web-only
 dev-web-only: ## Start only Next.js (no Python API)
