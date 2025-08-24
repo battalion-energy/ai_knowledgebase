@@ -18,6 +18,7 @@ model User {
   email           String    @unique
   username        String?   @unique
   name            String?
+  password        String?   // For credentials auth
   image           String?
   emailVerified   DateTime?
   battalionId     String?   @unique // Link to Battalion Platform user
