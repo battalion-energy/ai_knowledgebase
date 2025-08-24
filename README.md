@@ -41,13 +41,13 @@ An advanced document search and AI-powered analysis platform for ERCOT energy ma
 4. **Start Development Servers**
    ```bash
    make dev
-   # This starts both Next.js (port 3000) and Python API (port 8000)
+   # This starts both Next.js (port 3105) and Python API (port 8105)
    ```
 
 5. **Open Browser**
-   - Next.js App: http://localhost:3000
-   - Python API: http://localhost:8000
-   - API Docs: http://localhost:8000/docs
+   - Next.js App: http://localhost:3105
+   - Python API: http://localhost:8105
+   - API Docs: http://localhost:8105/docs
 
 ## 📦 Project Structure
 

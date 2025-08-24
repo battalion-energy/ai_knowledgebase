@@ -35,6 +35,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        "http://localhost:3105",
         "http://localhost:3000",
         "http://localhost:3001",
         "https://energence.ai",
@@ -249,4 +250,4 @@ async def get_document(document_id: str):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run(app, host="0.0.0.0", port=8105, reload=True)

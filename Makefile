@@ -20,11 +20,11 @@ POSTGRES_USER := postgres
 POSTGRES_PASSWORD := postgres
 
 # Python settings
-PYTHON_API_PORT := 8000
+PYTHON_API_PORT := 8105
 VENV_PATH := .venv
 
 # Next.js settings
-NEXT_PORT := 3000
+NEXT_PORT := 3105
 
 .PHONY: help
 help: ## Show this help message
@@ -361,6 +361,7 @@ info: ## Show project information
 	@echo "URLs when running:"
 	@echo "  Next.js:    http://localhost:$(NEXT_PORT)"
 	@echo "  Python API: http://localhost:$(PYTHON_API_PORT)"
+	@echo "  API Docs:   http://localhost:$(PYTHON_API_PORT)/docs"
 	@echo "  Prisma:     http://localhost:5555 (when studio is running)"
 	@echo ""
 	@echo "Run 'make help' to see all available commands"
